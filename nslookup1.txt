@@ -1,0 +1,11 @@
+Server:		10.0.1.1
+Address:	10.0.1.1#53
+
+Non-authoritative answer:
+Name:	jasonlaumeister.com
+Address: 107.161.23.204
+Name:	jasonlaumeister.com
+Address: 164.132.212.72
+Name:	jasonlaumeister.com
+Address: 167.114.213.199
+
