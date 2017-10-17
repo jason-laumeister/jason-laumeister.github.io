@@ -6,8 +6,11 @@
    or page.title == "Resume of Jason Laumeister"
 %}{% assign showHeader = true %}{% endif %}
 
+{% if page.title == "" %}
+	<script src="/assets/js/document-ready.js"></script>
+{% endif %}
+
 {% if showHeader == true %}
-	<script src="/assets/js/random-skills.js"></script>
     <header class="header-home {% if site.animation %}animated{% endif %}">
         {% if site.about %}
             <a class="link" href="{{ site.url }}/about">
