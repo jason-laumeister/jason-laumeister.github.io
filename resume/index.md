@@ -12,6 +12,7 @@ title: Resume of Jason Laumeister
 * [Microsoft Word (.docx)][resume-word]
 * [JSON][resume-json] (Read more about JSON resume schema format at [jsonresume.org][json-schema])
 
+
 [resume-html]: resume-jason-laumeister.html
 [resume-pdf]: resume-jason-laumeister.pdf
 [resume-word]: resume-jason-laumeister.docx
