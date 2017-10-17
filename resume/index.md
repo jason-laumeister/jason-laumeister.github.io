@@ -7,14 +7,7 @@ title: Resume of Jason Laumeister
 ## Choose a resume file format below.
 #### Note that you can right-click a link and select "Save Link As" to download a copy.
 
-* [HTML][resume-html]
-* [PDF][resume-pdf]
-* [Microsoft Word (.docx)][resume-word]
-* [JSON][resume-json] (Read more about JSON resume schema format at [jsonresume.org][json-schema])
-
-
-[resume-html]: resume-jason-laumeister.html
-[resume-pdf]: resume-jason-laumeister.pdf
-[resume-word]: resume-jason-laumeister.docx
-[resume-json]: resume-jason-laumeister.json
-[json-schema]: https://jsonresume.org/schema/
+* [HTML](resume-jason-laumeister.html)
+* [PDF](resume-jason-laumeister.pdf)
+* [Microsoft Word (.docx)](resume-jason-laumeister.docx)
+* [JSON](resume-jason-laumeister.json) (Read more about JSON resume schema format at [jsonresume.org](https://jsonresume.org/schema/))
