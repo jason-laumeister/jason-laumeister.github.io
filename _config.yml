@@ -1,13 +1,13 @@
 # main text of home
 name: Jason Laumeister
-bio: Software Engineering and Technology Tamed.
+bio: Software Engineering and Technology Tamed
 
 # title meta for google search
 google-title: Jason Laumeister
 google-description: Software Engineering and Architecture, Engineering Project and Team Management, Professional Services and Technical Consulting
 
 # twitter summary info
-description: Software Engineering and Technology Tamed. 
+description: Software Engineering and Technology Tamed
 
 # if it's an external image, update below for true
 # better with square images
@@ -19,7 +19,7 @@ picture: assets/images/jasonlaumeister_cropped.jpg
 resume: true
 resume-external: false
 #resume-url: https://google.com/?q=my+resume
-resume-url: /resume/
+resume-url: resume/
 
 # the base hostname & protocol for your site, e.g. http://example.com
 url: "https://www.jasonlaumeister.com" 
