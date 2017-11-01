@@ -5,7 +5,7 @@ layout: page
 title: Gigya redirect
 ---
 ## You were redirected here from the domain gigya.co
-#### I'm guessing that you were looking for [https://gigya.com](https://gigya.com) instead. 
+#### I'm guessing that you were looking for [https://www.gigya.com/](https://www.gigya.com/) instead. 
 #### You probably forgot to put that last "m" on the domain.
 
 ## If you are from Gigya, contact me for transfer of this domain. 
