@@ -2,7 +2,7 @@
 # blog page must be named index.html and in its own folder to support pagination
 # https://jekyllrb.com/docs/pagination/
 layout: page
-title: Gigya redirect
+title: gigya.co
 ---
 ## You were redirected here from the domain gigya.co
 #### I'm guessing that you were looking for [https://www.gigya.com/](https://www.gigya.com/) instead. 
