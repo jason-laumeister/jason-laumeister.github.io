@@ -19,6 +19,8 @@ Github pages are accessed over HTTP, but [Cloudflare][cloudflare] provides SSL s
 
 Read more about JSON resume schema format at [jsonresume.org][json-schema]
 
+Curious about the domain gigya.co? See [https://www.jasonlaumeister.com/gigya/](https://www.jasonlaumeister.com/gigya/)
+
 [github-pages]: https://pages.github.com/
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
