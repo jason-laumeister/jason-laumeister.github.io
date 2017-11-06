@@ -13,3 +13,11 @@ title: Resume of Jason Laumeister
 * [JSON](resume-jason-laumeister.json)
 
 Read more about JSON resume schema format at [jsonresume.org](https://jsonresume.org/schema/).
+
+## How far am I willing to regularly commute?
+
+Here is a map of where I can comfortably commute on a daily basis. If the job location is outside of the red box, the work has to be very compelling for me to consider a daily commute. 
+
+#### Note that you can right-click the map and select "Save Image As" to download a copy.
+
+<img class="selfie" alt="commute map" src="commute-map-outlined.jpg" />

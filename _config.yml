@@ -6,6 +6,11 @@ bio: Software Engineering and Technology Tamed
 google-title: Jason Laumeister
 google-description: Software Engineering and Architecture, Engineering Project and Team Management, Professional Services and Technical Consulting
 
+# SEO
+seo:
+    name: Jason Laumeister
+    type: Person
+
 # twitter summary info
 description: Software Engineering and Technology Tamed
 
