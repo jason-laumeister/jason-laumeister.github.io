@@ -16,7 +16,9 @@ Read more about JSON resume schema format at [jsonresume.org](https://jsonresume
 
 ## How far am I willing to regularly commute?
 
-Here is a map of where I can comfortably commute on a daily basis. If the job location is outside of the red box, the work has to be very compelling for me to consider a daily commute. 
+I live in Santa Cruz County California, about two hours drive south of San Francisco.
+
+Below is a map of where I can comfortably commute on a daily basis. If the job location is outside of the red box, the work has to be very compelling for me to consider a regular commute. For an awesome project I've commuted as far north as San Francisco a couple of times a week. 
 
 #### Note that you can right-click the map and select "Save Image As" to download a copy.
 
