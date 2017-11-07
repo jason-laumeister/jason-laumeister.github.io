@@ -14,11 +14,11 @@ title: Resume of Jason Laumeister
 
 Read more about JSON resume schema format at [jsonresume.org](https://jsonresume.org/schema/).
 
-## How far am I willing to regularly commute?
+## How far can I commute?
 
-I live in Santa Cruz County California, about two hours south of San Francisco by car.
+I live in Santa Cruz County California, about one and a half hours south of San Francisco by car.
 
-Below is a map of where I can comfortably commute on a daily basis. If the job location is outside of the red box, the work has to be very compelling for me to consider a regular commute. For an awesome project I've commuted as far north as San Francisco a couple of times a week. 
+Below is a map of where I can comfortably commute on a daily basis. If the job location is outside of the red box, the work has to be very compelling for me to consider a regular commute. For awesome projects I've commuted as far north as San Francisco a few times a week. 
 
 #### Note that you can right-click the map and select "Save Image As" to download a copy.
 
