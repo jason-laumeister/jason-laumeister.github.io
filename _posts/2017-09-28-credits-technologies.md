@@ -21,6 +21,8 @@ Read more about JSON resume schema format at [jsonresume.org][json-schema]
 
 Curious about the domain gigya.co? See [https://www.jasonlaumeister.com/gigya/](https://www.jasonlaumeister.com/gigya/)
 
+Maps provided by [https://maps.google.com](https://www.google.com/maps)
+
 [github-pages]: https://pages.github.com/
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
