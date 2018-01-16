@@ -1,5 +1,5 @@
 ---
-title: ":ramen: Indigo, minimalist jekyll theme"
+title: "Indigo, minimalist jekyll theme"
 layout: post
 date: 2016-01-23 22:10
 tags: jekyll, credits, components
@@ -11,8 +11,6 @@ category: credit
 author: johndoe
 externalLink: false
 ---
-
-![Screenshot](https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png)
 
 Example of project - [Indigo Minimalist Jekyll Template](https://github.com/sergiokopplin/indigo) - [Demo](http://sergiokopplin.github.io/indigo/). This is a simple and minimalist template for Jekyll for those who likes to eat noodles.
 

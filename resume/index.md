@@ -3,6 +3,7 @@
 # https://jekyllrb.com/docs/pagination/
 layout: page
 title: Resume of Jason Laumeister
+category: default
 ---
 ## Choose a resume file format below.
 #### Note that you can right-click a link and select "Save Link As" to download a copy.

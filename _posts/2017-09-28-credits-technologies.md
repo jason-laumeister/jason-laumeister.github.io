@@ -1,9 +1,9 @@
 ---
-title:  "Credits and technologies used in the construction of this website."
+title:  "Credits, and technologies used in the construction of this website."
 layout: post
 date:   2017-09-28
 author: jasonlaumeister
-tags: credits, components, technologies
+tags: credits, technologies
 category: credit
 ---
 
@@ -19,9 +19,7 @@ Github pages are accessed over HTTP, but [Cloudflare][cloudflare] provides SSL s
 
 Read more about JSON resume schema format at [jsonresume.org][json-schema]
 
-Curious about the domain gigya.co? See [https://www.jasonlaumeister.com/gigya/](https://www.jasonlaumeister.com/gigya/)
-
-Maps provided by [https://maps.google.com](https://www.google.com/maps)
+Maps provided by [Google Maps][google-maps]
 
 [github-pages]: https://pages.github.com/
 [jekyll-docs]: https://jekyllrb.com/docs/home
@@ -32,4 +30,5 @@ Maps provided by [https://maps.google.com](https://www.google.com/maps)
 [sergio-kopplin]: https://github.com/sergiokopplin
 [sergio-kopplin-indigo]: https://github.com/sergiokopplin/indigo
 [google-hosted-libs]: https://developers.google.com/speed/libraries/
+[google-maps]: https://www.google.com/maps
 [json-schema]: https://jsonresume.org/schema/

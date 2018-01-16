@@ -1,10 +1,7 @@
-{% if page.title == "Home"
-   or page.title == "Blog"
-   or page.title == "Projects"
-   or page.title == "Tags"
-   or page.title == "Credits and Technologies"
-   or page.title == "Resume of Jason Laumeister"
-   or page.title == "gigya.co"
+{% if page.category == "default"
+	or page.category == "blog"
+	or page.category == "credit"
+	or page.category == "test"
 %}{% assign showHeader = true %}{% endif %}
 
 {% if page.title == "" %}
