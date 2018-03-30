@@ -19,8 +19,10 @@ Read more about JSON resume schema format at [jsonresume.org](https://jsonresume
 
 I live in Santa Cruz County California, about one and a half hours south of San Francisco by car.
 
-Below is a map of where I can comfortably commute on a daily basis. If the job location is outside of the red box, the work has to be very compelling for me to consider a regular commute. For awesome projects I've commuted as far north as San Francisco a few times a week. 
+Below is a map of where I can comfortably commute on a daily basis. If the job location is outside of the red box, the work has to be very compelling for me to consider a daily commute. For awesome projects I've commuted as far north as San Francisco a few times a week. 
 
 #### Note that you can right-click the map and select "Save Image As" to download a copy.
 
-<img class="selfie" alt="commute map" src="commute-map-outlined.jpg" />
+<img alt="commute map" src="commute-map-outlined.jpg" />
+
+<div id="map" style="border:solid 1px blue;height: 100px;"></div>

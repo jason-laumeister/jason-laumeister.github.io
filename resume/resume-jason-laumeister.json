@@ -19,13 +19,25 @@
 	},
 	"work": [
 		{
+			"company": "SapientRazorfish",
+			"position": "Software Systems Architect (contract)",
+			"startDate": "2017-11-01",
+			"endDate": "2018-03-01",
+			"summary": "Project architectural consultant and team lead on financial services portal design.",
+			"highlights": [
+				"Project consultant and team lead on a financial services portal design.",
+				"Logical Systems and Full Stack Architecture Design.",
+				"Created interfaces for single-sign-on (SSO) integration with external data and services providers, including SSO (Single Sign On).",
+				"Authored Project Systems Architecture Documentation and Diagrams Creation."
+			]
+		},
+		{
 			"company": "Contract Consultant",
-			"position": "Software Systems Architect",
+			"position": "Software Engineering and Systems Architect (contract)",
 			"startDate": "2017-06-01",
-			"endDate": "present",
+			"endDate": "2017-11-01",
 			"summary": "Consultant on multiple projects for multiple clients.",
 			"highlights": [
-				"Project consultant and team lead on a financial services portal design, Sapient.",
 				"CIAM project consultant for Persistent Systems, a global technology services company.",
 				"Consulted on mesh networked sensor devices project.",
 				"Designed software for remote Internet enabled GPS sensor network to track agricultural resources and equipment in the field. Used for resource real-time accounting and anti-theft.",
