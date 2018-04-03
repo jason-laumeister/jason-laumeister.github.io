@@ -19,13 +19,26 @@
 	},
 	"work": [
 		{
-			"company": "Contract Consultant",
-			"position": "Software Systems Architect",
-			"startDate": "2017-06-01",
-			"endDate": "present",
+			"company": "Sapient",
+			"position": "Software Systems Architect, Engineering Team Lead (contract)",
+			"startDate": "2017-10-01",
+			"endDate": "2018-03-01",
 			"summary": "Consultant on multiple projects for multiple clients.",
 			"highlights": [
-				"Project consultant and team lead on a financial services portal design, Sapient.",
+				"Lead systems architect for financial services portal designs.",
+				"Led five person engineering architecture team during project design phase.",
+				"Full stack design, including Angular front end, PostgreSQL and Java back end.",
+				"Single sign on integration with third party financial data providers, including Yodlee and Albridge.",
+				"IAM integration (OpenIAM)."
+			]
+		},
+		{
+			"company": "Contract Consultant",
+			"position": "Software Systems Architect (contract)",
+			"startDate": "2017-06-01",
+			"endDate": "2017-10-01",
+			"summary": "Consultant, Multiple Clients.",
+			"highlights": [
 				"CIAM project consultant for Persistent Systems, a global technology services company.",
 				"Consulted on mesh networked sensor devices project.",
 				"Designed software for remote Internet enabled GPS sensor network to track agricultural resources and equipment in the field. Used for resource real-time accounting and anti-theft.",

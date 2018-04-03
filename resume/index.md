@@ -10,7 +10,7 @@ category: default
 
 * [HTML](resume-jason-laumeister.html)
 * [PDF](resume-jason-laumeister.pdf)
-* [Microsoft Word](resume-jason-laumeister.docx)
+* [Microsoft Word](resume-jason-laumeister.doc)
 * [JSON](resume-jason-laumeister.json)
 
 Read more about JSON resume schema format at [jsonresume.org](https://jsonresume.org/schema/).
@@ -19,8 +19,7 @@ Read more about JSON resume schema format at [jsonresume.org](https://jsonresume
 
 I live in Santa Cruz County California, about one and a half hours south of San Francisco by car.
 
-Below is a map of where I can comfortably commute on a daily basis. If the job location is outside of the red box, the work has to be very compelling for me to consider a regular commute. For awesome projects I've commuted as far north as San Francisco a few times a week. 
+Below is a map showing my maximum daily commute range. If the job location is outside of the red boundary I can't commute daily, but I can travel up to a few times a week.
 
-#### Note that you can right-click the map and select "Save Image As" to download a copy.
-
-<img class="selfie" alt="commute map" src="commute-map-outlined.jpg" />
+<input id="map-search" class="controls" type="text" placeholder="Map Search">
+<div id="map"></div>
