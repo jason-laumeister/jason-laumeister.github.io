@@ -23,26 +23,27 @@
 			"position": "Software Systems Architect, Engineering Team Lead (contract)",
 			"startDate": "2017-10-01",
 			"endDate": "2018-03-01",
-			"summary": "Consultant on multiple projects for multiple clients.",
+			"summary": "Led five person engineering architecture team during project design phase.",
 			"highlights": [
 				"Lead systems architect for financial services portal designs.",
 				"Led five person engineering architecture team during project design phase.",
 				"Full stack design, including Angular front end, PostgreSQL and Java back end.",
 				"Single sign on integration with third party financial data providers, including Yodlee and Albridge.",
-				"IAM integration (OpenIAM)."
+				"IAM integration (OpenIAM), distributed OLTP, and API layers.",
+				"Tiered design, containerized using Docker and Rancher."
 			]
 		},
 		{
 			"company": "Contract Consultant",
-			"position": "Software Systems Architect (contract)",
+			"position": "Software Systems Architect, Senior Software Engineer (multiple contracts)",
 			"startDate": "2017-06-01",
 			"endDate": "2017-10-01",
 			"summary": "Consultant, Multiple Clients.",
 			"highlights": [
 				"CIAM project consultant for Persistent Systems, a global technology services company.",
-				"Consulted on mesh networked sensor devices project.",
-				"Designed software for remote Internet enabled GPS sensor network to track agricultural resources and equipment in the field. Used for resource real-time accounting and anti-theft.",
-				"Prototyped decentralized blockchain application for secure energy trading within ad hoc network of local energy producers and consumers."
+				"Consulted on mesh networked sensor devices project for a stealth startup.",
+				"Designed software for remote Internet enabled GPS sensor network to track agricultural resources and equipment in the field. Used for resource real-time accounting and anti-theft for a stealth startup.",
+				"Prototyped decentralized blockchain application for secure energy trading within ad hoc network of local energy producers and consumers for a stealth startup."
 			]
 		},
 		{
