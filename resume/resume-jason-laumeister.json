@@ -26,7 +26,7 @@
 			"summary": "Consultant, Multiple Clients.",
 			"highlights": [
 				"Open source application for tracking geographic location and density of feral animal colonies, including trap/neuter/release programs.",
-				"Consulted on galliformes husbandry project for a stealth startup."
+				"Consulted on galliformes husbandry project for a ranching industry startup."
 			]
 		},
 		{
@@ -40,7 +40,7 @@
 				"Led five person engineering architecture team during project design phase.",
 				"Full stack design, including Angular front end, PostgreSQL and Java back end.",
 				"Single sign on integration with third party financial data providers, including Yodlee and Albridge.",
-				"IAM integration (OpenIAM), distributed OLTP, and API layers.",
+				"IAM integration, distributed OLTP, and API layers.",
 				"Tiered design, containerized using Docker and Rancher."
 			]
 		},
@@ -259,14 +259,20 @@
 				"Bitcoin",
 				"Ethereum",
 				"Cryptocurrency",
-				"Google Firebase"
+				"Google Firebase",
+				"IAM",
+				"CIAM",
+				"Docker",
+				"Rancher",
+				"Front End",
+				"API"
 			]
 		},
 		{
 			"name": "Experience",
 			"level": "Master",
 			"keywords": [
-				"CIAM (Customer Identity and Access Management) and Best Practices",
+				"CIAM (Customer Identity and Access Management), IAM, and Best Practices",
 				"High Availability REST API and Database Systems",
 				"eCommerce, Checkout, and Financial Systems",
 				"3d Printing and Custom Manufacturing Applications",
