@@ -22,11 +22,12 @@
 			"company": "Contract Consultant",
 			"position": "Software Systems Architect, Senior Software Engineer (multiple contracts)",
 			"startDate": "2018-03-01",
-			"endDate": "2018-07-01",
+			"endDate": "present",
 			"summary": "Consultant, Multiple Clients.",
 			"highlights": [
+				"SASS licensing server application for an established online cloud storage company.",
 				"Open source application for tracking geographic location and density of feral animal colonies, including trap/neuter/release programs.",
-				"Consulted on galliformes husbandry project for a ranching industry startup."
+				"Consulted on livestock husbandry project for a ranching industry startup."
 			]
 		},
 		{
@@ -266,7 +267,8 @@
 				"Rancher",
 				"Front End",
 				"API",
-				"ORM"
+				"ORM",
+				"Perl"
 			]
 		},
 		{
