@@ -24,4 +24,3 @@ Below is a map showing my maximum daily commute range. If the job location is ou
 <input id="map-search" class="controls" type="text" placeholder="Map Search">
 <div id="map"></div>
 
-###### [Work experience prior to October 2006.](resume-full/index.html)
