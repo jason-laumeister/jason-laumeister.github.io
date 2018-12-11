@@ -1,5 +1,5 @@
 ---
-title:  "Credits, and technologies used in the construction of this website."
+title:  "Credits for technologies used in the construction of this website."
 layout: post
 date:   2017-09-28
 author: jasonlaumeister
