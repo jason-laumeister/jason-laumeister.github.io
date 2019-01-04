@@ -26,7 +26,7 @@
 			"summary": "Consultant, Multiple Clients.",
 			"highlights": [
 				"SASS licensing server application for an established online cloud storage company.",
-				"Open source application for tracking geographic location and density of feral animal colonies, including trap/neuter/release programs.",
+				"Application for tracking geographic location and density of feral animal colonies, including trap/neuter/release programs.",
 				"Consulted on livestock husbandry project for a ranching industry startup."
 			]
 		},
@@ -171,7 +171,7 @@
 			"startDate": "2005-09-01",
 			"endDate": "2006-10-01",
 			"highlights": [
-				"Designed a SAS framework to quickly develop custom web applications [LAMP]."
+				"Designed a SAAS framework to quickly develop custom web applications [LAMP]."
 			]
 		},
 		{
@@ -247,9 +247,11 @@
 				"Google Firebase",
 				"HTML",
 				"IAM",
+				"iOS",
 				"JSON",
 				"Java",
 				"JavaScript",
+				"jQuery",
 				"LAMP",
 				"Linux",
 				"MySQL",
@@ -269,10 +271,7 @@
 				"SQL",
 				"TypeScript",
 				"Windows",
-				"XML",
-				"gRPC",
-				"iOS",
-				"jQuery"
+				"XML"
 			]
 		},
 		{
