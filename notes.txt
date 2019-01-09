@@ -1,0 +1,5 @@
+Force a rebuild of github pages by updating the hash:
+
+
+git commit -m 'force rebuild of github pages' --allow-empty
+git push origin master
