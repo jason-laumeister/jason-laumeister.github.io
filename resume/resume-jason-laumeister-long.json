@@ -164,6 +164,45 @@
 				"The Green Center and International Auto Show sites set new Yahoo Autos record at more than 1.5 million page views per day at peak.",
 				"Responsible for Autos RSS feeds displayed on Yahoo front page."
 			]
+		},
+		{
+			"company": "PygmyElephant (startup)",
+			"position": "Owner, Engineering Manager",
+			"startDate": "2005-09-01",
+			"endDate": "2006-10-01",
+			"highlights": [
+				"Designed a SAAS framework to quickly develop custom web applications [LAMP]."
+			]
+		},
+		{
+			"company": "Boulder Creek Software",
+			"position": "Owner, Engineering Manager, Senior Software Engineer",
+			"startDate": "1990-11-01",
+			"endDate": "2006-01-01",
+			"summary": "Managed contract software engineering for more than 70 projects for Fortune 1000 companies, the State of California, and the U.S. Federal Government.",
+			"highlights": [
+				"U.S. Federal Government - Battlefield Mobile Fingerprint Scanning and Identification App",
+				"U.S. Department of Energy - Hazardous and Radioactive Materials Tracking System",
+				"Pacific Gas and Electric Co. - Energy Contracts and Accounting System, 1.2 billion dollars",
+				"State of California USGS - Earthquake Mapping System",
+				"Ford Motor Company - Internet Automotive Warranty System, 26 million vehicles",
+				"Stanford University - Interactive Television System Firmware Operating System",
+				"ETRADE - Event and Resources Scheduling Software",
+				"Exponent - Automotive Air-bag Control Software",
+				"EPRI (Electric Power Research Institute) - Web-based Reporting and Graphing Application",
+				"Ford Motor Company - Internet Class Action Lawsuit Database, 50 million claimants",
+				"Hewlett Packard - Sales and Customer Support Systems Development",
+				"Molecular Devices Corporation - Chemistry Process Automation, 50+ laboratories worldwide",
+				"Rush - Oil Industry Pipeline, Equipment, and Processes Management Software",
+				"Charles Schwab - Sales and Commissions Support System",
+				"Applied Materials - Engineering Documentation and ECO Management System, 1 billion dollars inventory",
+				"Ocular Sciences - Contact Lens Manufacturing and Accounting Software",
+				"CellularOne - Marketing Reports System",
+				"Bay Microfilm - Imaging Software and Utilities Development",
+				"Varian - Warehouse Management and Inventory System",
+				"Sun Microsystems - Engineering Customer Support Software",
+				"Deloitte and Touche - Help Desk Support Software"
+			]
 		}
 	],
 	"awards": [
