@@ -16,11 +16,6 @@ I can't breathe<br>
 I can't breathe<br>
 I can't breathe<br>
 I can't breathe<br>
-I can't breathe<br>
-I can't breathe<br>
-I can't breathe<br>
-I can't breathe<br>
-I can't breathe<br>
 <span style="font-size: 75%; text-decoration: underline;">I can't breathe</span>
 </a>
 
