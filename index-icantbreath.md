@@ -1,5 +1,5 @@
 ---
-title: I can't breath
+title: I can't breathe
 layout: page
 category: icantbreath
 ---
