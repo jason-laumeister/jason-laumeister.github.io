@@ -4,9 +4,8 @@
 		"label": "Software Engineering and Architecture, Full Stack, Engineering Project and Team Management, Professional Services and Technical Consultant",
 		"email": "jason.laumeister@gmail.com",
 		"website": "https://www.jasonlaumeister.com",
-		"summary": "",
+		"summary": "resume of Jason Laumeister, Project Management, Engineering Team Management, Software Engineering and Architecture, Full Stack, Professional Services, Technical Consultant",
 		"location": {
-			"city": "Santa Cruz",
 			"countryCode": "US",
 			"region": "California"
 		},
@@ -19,10 +18,21 @@
 	},
 	"work": [
 		{
+			"company": "Pando (pandopooling.com)",
+			"position": "Project Manager, Senior Software Engineer",
+			"startDate": "2019-09-01",
+			"endDate": "2020-09-01",
+			"summary": "Engineering Manager",
+			"highlights": [
+				"Helped create a web platform that allows people to contractually pool their income as protection against financial instability.",
+				"Managed overseas development team, Agile software development, and product features."
+			]
+		},
+		{
 			"company": "Contract Consultant",
 			"position": "Software Systems Architect, Senior Software Engineer (multiple contracts)",
 			"startDate": "2018-03-01",
-			"endDate": "present",
+			"endDate": "2019-09-01",
 			"summary": "Consultant, Multiple Clients.",
 			"highlights": [
 				"SAAS licensing server application for an established online cloud storage company.",
