@@ -211,6 +211,7 @@
 				"CSS",
 				"Cryptocurrency",
 				"Docker",
+				"Django",
 				"Ethereum",
 				"Front End",
 				"GitHub",
@@ -249,6 +250,7 @@
 			"name": "Experience",
 			"level": "Master",
 			"keywords": [
+				"Software Project Management and Systems Design",
 				"CIAM (Customer Identity and Access Management), IAM, and Best Practices",
 				"High Availability REST API, ORM, and Database Systems",
 				"eCommerce, Checkout, and Financial Systems",

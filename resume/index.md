@@ -17,10 +17,4 @@ Read more about JSON resume schema format at [jsonresume.org](https://jsonresume
 
 ## How far can I commute?
 
-I live in Santa Cruz County California, about one and a half hours south of San Francisco by car.
-
-Below is a map showing my maximum daily commute range. If the job location is outside of the red boundary I can't commute daily, but I can travel up to a few times a week.
-
-<input id="map-search" class="controls" type="text" placeholder="Map Search">
-<div id="map"></div>
-
+During the Covid-19 pandemic I am available for remote telecommuting. After the pandemic is resolved I am willing to relocate anywhere in the world for the right opportunity. 
