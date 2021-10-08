@@ -18,6 +18,18 @@
 	},
 	"work": [
 		{
+			"company": "Issuu",
+			"position": "Solution Integration Engineer",
+			"startDate": "2019-09-01",
+			"endDate": "2020-09-01",
+			"summary": "Software Engineering Lead",
+			"highlights": [
+				"Responsible for design and implementation of integrations between the Issuu publishing platform and third party tools like those from Adobe and Canva.",
+				"Helped marketing team define priorities and product features.",
+				"As the sole software engineer in the United States, worked closely with overseas development teams in Denmark, Germany, and Portugal."
+			]
+		},
+		{
 			"company": "Pando (pandopooling.com)",
 			"position": "Project Manager, Senior Software Engineer",
 			"startDate": "2019-09-01",
