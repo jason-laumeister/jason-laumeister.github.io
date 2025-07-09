@@ -1,0 +1,7 @@
+baseURL = 'https://jasonlaumeister.com/'
+title = 'Jason Laumeister'
+description = 'Engineering and Technology Tamed'
+languageCode = 'en-us'
+preserveTaxonomyNames = true
+
+theme = 'cleanwhite'
