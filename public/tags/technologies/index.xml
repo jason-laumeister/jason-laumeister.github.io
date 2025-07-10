@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technologies on Jason Laumeister</title>
+    <link>http://localhost:1313/tags/technologies/</link>
+    <description>Recent content in Technologies on Jason Laumeister</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jan 2025 01:00:00 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/technologies/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Credits for technologies used in the construction of this website.</title>
+      <link>http://localhost:1313/credits/</link>
+      <pubDate>Wed, 01 Jan 2025 01:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/credits/</guid>
+      <description>&lt;p&gt;{{title}}&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;&#xA;&lt;p&gt;This website is constructed using &lt;a href=&#34;https://pages.github.com/&#34;&gt;Github Pages&lt;/a&gt; and &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt;. Read the &lt;a href=&#34;https://jekyllrb.com/docs/home&#34;&gt;Jekyll docs&lt;/a&gt; for more details on how it works.&lt;/p&gt;&#xA;&lt;p&gt;Thank you &lt;a href=&#34;https://github.com/sergiokopplin&#34;&gt;Sergio Koppln&lt;/a&gt; for creating the &lt;a href=&#34;https://github.com/sergiokopplin/indigo&#34;&gt;indigo&lt;/a&gt; Jekyll theme that is used as a base for this site.&lt;/p&gt;&#xA;&lt;p&gt;Inexpensive and adequate domain name registration can be had at &lt;a href=&#34;https://www.namesilo.com/&#34;&gt;namesilo.com&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Github pages are accessed over HTTP, but &lt;a href=&#34;https://www.cloudflare.com/&#34;&gt;Cloudflare&lt;/a&gt; provides SSL support. Read &lt;a href=&#34;https://blog.cloudflare.com/secure-and-fast-github-pages-with-cloudflare/&#34;&gt;&amp;ldquo;Secure and fast GitHub Pages with CloudFlare&amp;rdquo;&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://developers.google.com/speed/libraries/&#34;&gt;Google Hosted Libraries&lt;/a&gt; are an excellent way to include common javascript libraries hosted on the Google CDN services. These are widely used, so it&amp;rsquo;s likely that these are already in the browser cache of your target audience too.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

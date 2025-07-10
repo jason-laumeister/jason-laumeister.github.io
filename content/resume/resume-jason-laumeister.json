@@ -1,0 +1,283 @@
+{
+	"basics": {
+		"name": "Jason Laumeister",
+		"label": "Software Engineering and Architecture, Full Stack, Engineering Project and Team Management, Professional Services and Technical Consultant",
+		"email": "jason.laumeister@gmail.com",
+		"website": "https://www.jasonlaumeister.com",
+		"summary": "resume of Jason Laumeister, Project Management, Engineering Team Management, Software Engineering and Architecture, Full Stack, Professional Services, Technical Consultant",
+		"location": {
+			"countryCode": "US",
+			"region": "California"
+		},
+		"profiles": [
+			{
+				"network": "github",
+				"url": "https://github.com/jason-laumeister"
+			}
+		]
+	},
+	"work": [
+		{
+			"company": "Issuu",
+			"position": "Solution Integration Engineer",
+			"startDate": "2021-01-01",
+			"endDate": "2021-10-01",
+			"summary": "Software Engineering Lead",
+			"highlights": [
+				"Responsible for design and implementation of integrations between the Issuu publishing platform and third party tools like those from Adobe and Canva.",
+				"Helped marketing team define priorities and product features.",
+				"As the sole software engineer in the United States, worked closely with overseas development teams in Denmark, Germany, and Portugal."
+			]
+		},
+		{
+			"company": "Pando (pandopooling.com)",
+			"position": "Project Manager, Senior Software Engineer",
+			"startDate": "2019-09-01",
+			"endDate": "2020-09-01",
+			"summary": "Engineering Manager",
+			"highlights": [
+				"Helped create a web platform that allows people to contractually pool their income as protection against financial instability.",
+				"Managed overseas development team, Agile software development, and product features."
+			]
+		},
+		{
+			"company": "Contract Consultant",
+			"position": "Software Systems Architect, Senior Software Engineer (multiple contracts)",
+			"startDate": "2018-03-01",
+			"endDate": "2019-09-01",
+			"summary": "Consultant, Multiple Clients.",
+			"highlights": [
+				"SAAS licensing server application for an established online cloud storage company.",
+				"Application for tracking geographic location and density of feral animal colonies, including trap/neuter/release programs.",
+				"Consulted on livestock husbandry project for a ranching industry startup."
+			]
+		},
+		{
+			"company": "Sapient",
+			"position": "Software Systems Architect, Engineering Team Lead (contract)",
+			"startDate": "2017-10-01",
+			"endDate": "2018-03-01",
+			"summary": "Led five person engineering architecture team during project design phase.",
+			"highlights": [
+				"Lead systems architect for financial services portal designs.",
+				"Led five person engineering architecture team during project design phase.",
+				"Full stack design, including Angular front end, PostgreSQL and Java back end.",
+				"Single sign on integration with third party financial data providers, including Yodlee and Albridge.",
+				"IAM integration, distributed OLTP, and API layers.",
+				"Tiered design, containerized using Docker and Rancher."
+			]
+		},
+		{
+			"company": "Contract Consultant",
+			"position": "Software Systems Architect, Senior Software Engineer (multiple contracts)",
+			"startDate": "2017-06-01",
+			"endDate": "2017-10-01",
+			"summary": "Consultant, Multiple Clients.",
+			"highlights": [
+				"CIAM project consultant for Persistent Systems, a global technology services company.",
+				"Consulted on mesh networked sensor devices project for a stealth startup.",
+				"Designed software for remote Internet enabled GPS sensor network to track agricultural resources and equipment in the field. Used for resource real-time accounting and anti-theft for a stealth startup.",
+				"Prototyped decentralized blockchain application for secure energy trading within ad hoc network of local energy producers and consumers for a stealth startup."
+			]
+		},
+		{
+			"company": "Gigya",
+			"position": "Lead Technical Consultant, Professional Services",
+			"startDate": "2014-08-01",
+			"endDate": "2017-06-01",
+			"summary": "Full time Position. Professional Services Consultant on multiple CIAM projects for multiple clients.",
+			"highlights": [
+				"Consulted directly with internal and external customer engineering teams to design and implement large scale CIAM (Customer Identity and Access Management) projects.",
+				"Gigya’s first professional services hire (lead technical projects consultant). Helped to build out department, create documentation and procedures, and train new engineers.",
+				"Customer projects include those for Turner, General Electric, Sony, iRobot, Campbell Soup Company, KPMG, Time Warner, Fox, Marriott, NCAA, PGA, NBA, NFL, TBS, TNT, TCM, CNN, Adult Swim, American Heart Association, Hallmark, AGL Energy, News Life Media, American Kennel Club, Universal Music Group, Wacom, and others.",
+				"Oversaw integrations between CIAM systems, Advertising and Data Management Platforms, CMS, CRM, ESP, and Data Exchange Services (Adobe, Salesforce, Magento, Drupal, Krux, Constant Contact, MailChimp, Marketo, Silverpop, Epsilon).",
+				"Helped author customer facing instructional videos and product documentation."
+			]
+		},
+		{
+			"company": "BeyondCore (startup)",
+			"position": "Senior Projects Engineer",
+			"startDate": "2014-04-01",
+			"endDate": "2014-08-01",
+			"highlights": [
+				"Independent projects, reporting directly to CTO.",
+				"Designed and authored system security and admin tools, and secure release procedures.",
+				"Developed interfaces for external data sources including SQL and NoSQL."
+			]
+		},
+		{
+			"company": "Treofab (contract, startup)",
+			"position": "Director of Software Engineering",
+			"startDate": "2013-10-01",
+			"endDate": "2014-04-01",
+			"highlights": [
+				"Managed remote engineering teams and coordinated software development for 3d Printing and custom manufacturing projects.",
+				"Coauthored patent '3 Dimensional Manufactured Object Application Builder', 2013 Treofab",
+				"Designed and implemented high volume REST API services running on Amazon Web Services (AWS) S3, EC2, and RDS. Written in PHP and C++ and consumed by mobile and web clients.",
+				"Software to calculate in real-time how much it costs to 3d print an object from CAD/STL files based on size, calculated volume, surface area, and target materials.",
+				"Web and mobile graphical 3d object editors written in JavaScript, webGL, HTML5, and Unity",
+				"Custom shopping cart, checkout and payments systems that show calculated product prices in real time based on user selection of object scale, materials, custom options, and target manufacturing company.",
+				"eCommerce accounting systems that include flexible contract royalty calculations.",
+				"International currency conversion using current exchange rates.",
+				"API integrations with the ordering and pricing systems at external 3d manufacturing partners including Shapeways, 3DPrintUK, and i.materialise.",
+				"Partner Portal where 3d Printing Service Bureaus can access their printing queues and orders."
+			]
+		},
+		{
+			"company": "Tocata / Revel Touch",
+			"position": "API Projects Manager, Senior Software Engineer",
+			"startDate": "2012-03-01",
+			"endDate": "2013-10-01",
+			"highlights": [
+				"App Developer of 'Design Within Reach' - Webby Awards 2013 Nominee in Mobile Shopping Apps category",
+				"Responsible for high volume REST API services consumed by iOS, Android, and HTML5 apps.",
+				"Consulted directly with Fortune 1000 merchandisers to integrate their product data, shopping cart, and web services with Tocata mobile catalog apps and API services."
+			]
+		},
+		{
+			"company": "iWin",
+			"position": "Senior Software Engineer",
+			"startDate": "2011-08-01",
+			"endDate": "2012-03-01",
+			"highlights": [
+				"Helped brand a casual game site in partnership with Pogo and Electronic Arts.",
+				"Developed web UI in HTML5, JavaScript, and CSS3 (Java/Tomcat)."
+			]
+		},
+		{
+			"company": "Adknowledge",
+			"position": "Monetization Systems and API Design",
+			"startDate": "2010-02-01",
+			"endDate": "2011-08-01",
+			"highlights": [
+				"Responsible for creating monetization, payment processing, and advertising systems for social game applications running on social networks like Facebook and Myspace."
+			]
+		},
+		{
+			"company": "SGN",
+			"position": "Social Game Design and Monetization",
+			"startDate": "2008-10-01",
+			"endDate": "2010-02-01",
+			"highlights": [
+				"Developed Facebook and Myspace social games.",
+				"Designed new content, promotions, and virtual goods.",
+				"Integrated 3rd party advertising and payment processing systems.",
+				"Designed mechanics of in-game virtual economies and markets with multiple currencies.",
+				"Programmed social network authentication and viral messaging."
+			]
+		},
+		{
+			"company": "Tinyprints",
+			"position": "Senior Software Engineer",
+			"startDate": "2007-07-01",
+			"endDate": "2008-10-01",
+			"highlights": [
+				"3rd engineering hire instrumental in defining company engineering best practices, repeatable release processes, software documentation, and coding standards.",
+				"Authored eCommerce systems, shopping cart and order processing, coupon promotions and gift certificate systems."
+			]
+		},
+		{
+			"company": "Yahoo Autos (contract)",
+			"position": "Senior Software Engineer",
+			"startDate": "2006-10-01",
+			"endDate": "2007-07-01",
+			"highlights": [
+				"Pioneered the use of content management systems at Yahoo Autos.",
+				"The Green Center and International Auto Show sites set new Yahoo Autos record at more than 1.5 million page views per day at peak.",
+				"Responsible for Autos RSS feeds displayed on Yahoo front page."
+			]
+		}
+	],
+	"awards": [
+		{
+			"title": "Webby Award",
+			"date": "2013-01-01",
+			"awarder": "WebbyAwards.com",
+			"summary": "Mobile Shopping Applications, Application Developer, https://www.webbyawards.com/winners/2013/mobile-apps/tablet-and-all-other-devices/shopping-tablet-all-other-devices/design-within-reach-ipad-app/"
+		}
+	],
+	"publications": [
+		{
+			"name": "US Patent Office",
+			"publisher": "Treofab",
+			"releaseDate": "2014-02-01",
+			"summary": "Coauthored patent '3 Dimensional Manufactured Object Application Builder'"
+		}
+	],
+	"skills": [
+		{
+			"name": "Development",
+			"level": "Master",
+			"keywords": [
+				"AJAX",
+				"API",
+				"AWS",
+				"Android",
+				"Angular",
+				"Apache",
+				"Bitcoin",
+				"Bootstrap",
+				"C#",
+				"C++",
+				"CIAM",
+				"CSS",
+				"Cryptocurrency",
+				"Docker",
+				"Django",
+				"Ethereum",
+				"Front End",
+				"GitHub",
+				"Go",
+				"Google Firebase",
+				"HTML",
+				"IAM",
+				"iOS",
+				"JSON",
+				"Java",
+				"JavaScript",
+				"jQuery",
+				"LAMP",
+				"Linux",
+				"MySQL",
+				"Nginx",
+				"NoSQL",
+				"Node.js",
+				"ORM",
+				"OS X",
+				"PHP",
+				"Perl",
+				"PostgreSQL",
+				"Prototype",
+				"Python",
+				"Rancher",
+				"React",
+				"Ruby",
+				"SQL",
+				"TypeScript",
+				"Windows",
+				"XML"
+			]
+		},
+		{
+			"name": "Experience",
+			"level": "Master",
+			"keywords": [
+				"Software Project Management and Systems Design",
+				"CIAM (Customer Identity and Access Management), IAM, and Best Practices",
+				"High Availability REST API, ORM, and Database Systems",
+				"eCommerce, Checkout, and Financial Systems",
+				"3d Printing and Custom Manufacturing Applications",
+				"Multi-Vendor System Integrations",
+				"Large Scale Product Merchandising and Catalog Systems",
+				"Decentralized Blockchain Applications",
+				"Webby Awards 2013 winner, Mobile Shopping Applications, Application Developer"
+			]
+		}
+	],
+	"languages": [
+		{
+			"name": "English",
+			"level": "Native speaker"
+		}
+	]
+}

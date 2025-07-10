@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Draft on Jason Laumeister</title>
+    <link>http://localhost:1313/tags/draft/</link>
+    <description>Recent content in Draft on Jason Laumeister</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jan 2025 01:00:00 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/draft/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test Post Title</title>
+      <link>http://localhost:1313/posts/first-post/</link>
+      <pubDate>Wed, 01 Jan 2025 01:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/posts/first-post/</guid>
+      <description>&lt;p&gt;&amp;ldquo;{{ post.url }}&amp;rdquo;&lt;/p&gt;&#xA;&lt;h2 id=&#34;introduction-test-post&#34;&gt;Introduction Test Post&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

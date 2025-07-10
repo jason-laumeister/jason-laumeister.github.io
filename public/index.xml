@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jason Laumeister</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Jason Laumeister</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jan 2025 01:00:00 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3d Volume Calc</title>
+      <link>http://localhost:1313/posts/3d-volume-calc/</link>
+      <pubDate>Wed, 01 Jan 2025 01:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/posts/3d-volume-calc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Credits for technologies used in the construction of this website.</title>
+      <link>http://localhost:1313/credits/</link>
+      <pubDate>Wed, 01 Jan 2025 01:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/credits/</guid>
+      <description>&lt;p&gt;{{title}}&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;&#xA;&lt;p&gt;This website is constructed using &lt;a href=&#34;https://pages.github.com/&#34;&gt;Github Pages&lt;/a&gt; and &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt;. Read the &lt;a href=&#34;https://jekyllrb.com/docs/home&#34;&gt;Jekyll docs&lt;/a&gt; for more details on how it works.&lt;/p&gt;&#xA;&lt;p&gt;Thank you &lt;a href=&#34;https://github.com/sergiokopplin&#34;&gt;Sergio Koppln&lt;/a&gt; for creating the &lt;a href=&#34;https://github.com/sergiokopplin/indigo&#34;&gt;indigo&lt;/a&gt; Jekyll theme that is used as a base for this site.&lt;/p&gt;&#xA;&lt;p&gt;Inexpensive and adequate domain name registration can be had at &lt;a href=&#34;https://www.namesilo.com/&#34;&gt;namesilo.com&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Github pages are accessed over HTTP, but &lt;a href=&#34;https://www.cloudflare.com/&#34;&gt;Cloudflare&lt;/a&gt; provides SSL support. Read &lt;a href=&#34;https://blog.cloudflare.com/secure-and-fast-github-pages-with-cloudflare/&#34;&gt;&amp;ldquo;Secure and fast GitHub Pages with CloudFlare&amp;rdquo;&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://developers.google.com/speed/libraries/&#34;&gt;Google Hosted Libraries&lt;/a&gt; are an excellent way to include common javascript libraries hosted on the Google CDN services. These are widely used, so it&amp;rsquo;s likely that these are already in the browser cache of your target audience too.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Playing God in Space Haven</title>
+      <link>http://localhost:1313/posts/spacehaven/</link>
+      <pubDate>Wed, 01 Jan 2025 01:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/posts/spacehaven/</guid>
+      <description>&lt;p&gt;Not unlike Q in Star Trek series?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Resume of Jason Laumeister</title>
+      <link>http://localhost:1313/resume/</link>
+      <pubDate>Wed, 01 Jan 2025 01:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/resume/</guid>
+      <description>&lt;h2 id=&#34;choose-a-resume-file-format-below&#34;&gt;Choose a resume file format below.&lt;/h2&gt;&#xA;&lt;h4 id=&#34;note-that-you-can-right-click-a-link-and-select-save-link-as-to-download-a-copy&#34;&gt;Note that you can right-click a link and select &amp;ldquo;Save Link As&amp;rdquo; to download a copy.&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;resume-jason-laumeister.html&#34;&gt;HTML&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;resume-jason-laumeister.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;resume-jason-laumeister.doc&#34;&gt;Microsoft Word&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;resume-jason-laumeister.json&#34;&gt;JSON&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Read more about JSON resume schema format at &lt;a href=&#34;https://jsonresume.org/schema/&#34;&gt;jsonresume.org&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;available-for-remote-roles&#34;&gt;Available for remote roles.&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>Test Post Title</title>
+      <link>http://localhost:1313/posts/first-post/</link>
+      <pubDate>Wed, 01 Jan 2025 01:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/posts/first-post/</guid>
+      <description>&lt;p&gt;&amp;ldquo;{{ post.url }}&amp;rdquo;&lt;/p&gt;&#xA;&lt;h2 id=&#34;introduction-test-post&#34;&gt;Introduction Test Post&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -4,4 +4,4 @@ description = 'Engineering and Technology Tamed'
 languageCode = 'en-us'
 preserveTaxonomyNames = true
 
-theme = 'cleanwhite'
+theme = 'ananke'
