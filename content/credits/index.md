@@ -7,7 +7,8 @@ author = 'Jason Laumeister'
 tags = ['credits', 'technologies']
 category = 'credit'
 +++
-{{title}}
+
+{{ post.title }}
 
 Visit the [Hugo](https://gohugo.io) website!
 

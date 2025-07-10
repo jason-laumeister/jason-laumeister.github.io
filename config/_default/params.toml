@@ -17,12 +17,13 @@ new_window_icon = false # show a little "opens in new window" icon next to the l
 icons = true # show icons for each share link
 sharetext = true # show the share text
 # add networks to this list in your local config to enable them, remove them to disable them.
-# networks = [
-#   "email",
-#   "facebook",
-#   "bluesky",
-#   "linkedin"
-# ]
+networks = [
+  "email",
+  "facebook",
+  "bluesky",
+  "reddit",
+  "linkedin"
+]
 
 # social media network setups
 [ananke.social.networks.bluesky]

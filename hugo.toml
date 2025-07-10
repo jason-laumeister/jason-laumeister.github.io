@@ -1,7 +1,56 @@
 baseURL = 'https://jasonlaumeister.com/'
-title = 'Jason Laumeister'
-description = 'Engineering and Technology Tamed'
+title = 'Jason Laumeister Home'
 languageCode = 'en-us'
 preserveTaxonomyNames = true
 
 theme = 'ananke'
+#theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
+
+#resourceDir = "../resources"
+
+SectionPagesMenu = "main"
+pagination.pagerSize = 9
+googleAnalytics = 'UA-107711386-1'
+enableRobotsTXT = true
+
+DefaultContentLanguage = "en"
+#[languages]
+#    [languages.en]
+#        title = "Ananke"
+#        weight = 1
+#        contentDir = "content/en"
+#        # languageDirection = 'rtl' for Right-To-Left languages
+#    [languages.fr]
+#        title = "Ananke Fr"
+#        weight = 2
+#        contentDir = "content/fr"
+
+[sitemap]
+    changefreq = "monthly"
+    priority = 0.5
+    filename = "sitemap.xml"
+
+[params]
+    header_image = 'img/home-bg-jeep.jpg'
+    SEOTitle = 'Resume of Jason Laumeister'
+    #description = 'Engineering and Technology Tamed'
+    keyword = 'Jason Laumeister, Laumeister, Software Engineering, Spacehaven, Space Haven'
+    slogan = 'Engineering and Technology Tamed'
+    upstreamAttribution = true
+
+    # Include any custom CSS and/or JS files, url or relative to /static folder
+    #custom_css = ["css/lightbox.css", "https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css", "css/main.css"]
+    #custom_js = ["js/lightbox.js", "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js", "js/main.js"]
+
+    description = 'Engineering and Technology Tamed'
+    text_color = ""
+    author = ""
+    favicon = ""
+    site_logo = ""
+    # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+    background_color_class = "bg-black"
+    recent_posts_number = 3
+
+[[params.ananke_socials]]
+    name = "twitter"
+    url = "https://twitter.com/GoHugoIO"
