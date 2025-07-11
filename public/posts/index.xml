@@ -6,8 +6,22 @@
     <description>Recent content in Articles on Jason Laumeister Home</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Jan 2025 01:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 10 Jul 2025 13:33:05 -0700</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sailboat Blue Water Capsize Factor</title>
+      <link>http://localhost:1313/posts/sailboat-blue-water-capsize-factor/</link>
+      <pubDate>Thu, 10 Jul 2025 13:33:05 -0700</pubDate>
+      <guid>http://localhost:1313/posts/sailboat-blue-water-capsize-factor/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>PEN Testing</title>
+      <link>http://localhost:1313/posts/pen-testing/</link>
+      <pubDate>Thu, 10 Jul 2025 13:25:35 -0700</pubDate>
+      <guid>http://localhost:1313/posts/pen-testing/</guid>
+      <description></description>
+    </item>
     <item>
       <title>3d Volume Calc</title>
       <link>http://localhost:1313/posts/3d-volume-calc/</link>

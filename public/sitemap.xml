@@ -2,12 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/3d-volume-calc/</loc>
-    <lastmod>2025-01-01T01:00:00-07:00</lastmod>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-07-10T13:33:05-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:1313/posts/sailboat-blue-water-capsize-factor/</loc>
+    <lastmod>2025-07-10T13:33:05-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/pen-testing/</loc>
+    <lastmod>2025-07-10T13:25:35-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/3d-volume-calc/</loc>
     <lastmod>2025-01-01T01:00:00-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -102,6 +112,10 @@
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/contact/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/home/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
