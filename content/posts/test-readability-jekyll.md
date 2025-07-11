@@ -4,7 +4,7 @@ layout: post
 title: "Testing Readability with a Bunch of Text (old Jekyll MD)"
 description: "A ton of text to test readability."
 date: 2025-01-01T01:00:00-07:00
-tags: test, markdown, jekyll
+tags: ['test', 'markdown', 'jekyll']
 category: test
 # comments: true
 ---

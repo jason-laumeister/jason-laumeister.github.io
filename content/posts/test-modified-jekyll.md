@@ -4,7 +4,7 @@ title: "A Full and Comprehensive Style Test (old Jekyll MD)"
 layout: post
 date: 2025-01-01T01:00:00-07:00
 description: Test post for style
-tags: test, markdown, jekyll
+tags: ['test', 'markdown', 'jekyll']
 category: test
 author: johndoe
 ---

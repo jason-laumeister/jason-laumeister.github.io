@@ -5,7 +5,7 @@ layout: post
 date: 2025-01-01T01:00:00-07:00
 image: /assets/images/markdown.jpg
 headerImage: false
-tags: test, markdown, jekyll
+tags: ['test', 'markdown', 'jekyll']
 category: test
 author: jamesfoster
 description: Markdown summary with different options

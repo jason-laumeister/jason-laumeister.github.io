@@ -160,10 +160,6 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/home/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>http://localhost:1313/tags/test-markdown-jekyll/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
