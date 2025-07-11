@@ -1,9 +1,10 @@
 ---
-title: "A Full and Comprehensive Style Test"
+draft: true
+title: "A Full and Comprehensive Style Test (old Jekyll MD)"
 layout: post
-date: 2016-08-15
+date: 2025-01-01T01:00:00-07:00
 description: Test post for style
-tags: test, markdown
+tags: test, markdown, jekyll
 category: test
 author: johndoe
 ---
@@ -30,15 +31,10 @@ Below is just about everything you'll need to style in the theme. Check the sour
 
 ##### Left(Default)
 
-##### Center
-{: .center}
-
-##### Right
-{: .right}
 
 ## 2. Body Text
 
-Lorem ipsum dolor sit amet, [test link](https://www.google.com) adipiscing elit. **This is strong.** Nullam dignissim convallis est. Quisque aliquam. *This is emphasized.* Donec faucibus. Nunc iaculis suscipit dui. 5<sup>3</sup> = 125. Water is H<sub>2</sub>O. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. <u>Underline</u>. Maecenas ornare tortor. Donec sed tellus eget `COPY filename` sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, <del>Dinner’s at 5:00.</del> commodo vitae, feugiat in, nunc. Morbi imperdiet augue <mark>mark element</mark> quis tellus.
+Lorem ipsum dolor sit amet, [test link](https://www.google.com) adipiscing elit. **This is strong.** Nullam dignissim convallis est. Quisque aliquam. *This is emphasized.* Donec faucibus. Nunc iaculis suscipit dui.  = 125. Water is Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. . Maecenas ornare tortor. Donec sed tellus eget `COPY filename` sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at,    commodo vitae, feugiat in, nunc. Morbi imperdiet augue <mark>mark element</mark> quis tellus.
 
 ## 3. Images
 
@@ -101,16 +97,6 @@ Maruku
 
 ### Highlighted Code Blocks
 
-```css
-#container {
-  float: left;
-  margin: 0 -240px 0 0;
-  width: 100%;
-}
-```
+
 
 ### Standard code block
-
-    <div id="awesome">
-      <p>This is great isn't it?</p>
-    </div>

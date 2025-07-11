@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Test on Jason Laumeister Home</title>
+    <title>Test on Jason Laumeister</title>
     <link>http://localhost:1313/tags/test/</link>
-    <description>Recent content in Test on Jason Laumeister Home</description>
+    <description>Recent content in Test on Jason Laumeister</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 01 Jan 2025 01:00:00 -0700</lastBuildDate>
@@ -13,7 +13,21 @@
       <link>http://localhost:1313/posts/test-post/</link>
       <pubDate>Wed, 01 Jan 2025 01:00:00 -0700</pubDate>
       <guid>http://localhost:1313/posts/test-post/</guid>
-      <description>&lt;p&gt;&amp;ldquo;{{ post.url }}&amp;rdquo;&lt;/p&gt;&#xA;&lt;h2 id=&#34;introduction-test-post&#34;&gt;Introduction Test Post&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
+      <description>&lt;p&gt;ry 2&amp;rsquo;]&#xA;+++&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;{{ post.url }}&amp;rdquo;&lt;/p&gt;&#xA;&lt;h2 id=&#34;introduction-test-post&#34;&gt;Introduction Test Post&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the [Hugo](&lt;a href=&#34;https://gohugo.i&#34;&gt;https://gohugo.i&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Chapter II: Pierre Gringoire</title>
+      <link>http://localhost:1313/posts/chapter-2/</link>
+      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      <guid>http://localhost:1313/posts/chapter-2/</guid>
+      <description>&lt;p&gt;Nevertheless, as be harangued them, the satisfaction and admiration&#xA;unanimously excited by his costume were dissipated by his words; and when&#xA;he reached that untoward conclusion: “As soon as his illustrious eminence,&#xA;the cardinal, arrives, we will begin,” his voice was drowned in a thunder&#xA;of hooting.&lt;/p&gt;&#xA;&lt;p&gt;“Begin instantly! The mystery! the mystery immediately!” shrieked the&#xA;people. And above all the voices, that of Johannes de Molendino was&#xA;audible, piercing the uproar like the fife’s derisive serenade: “Commence&#xA;instantly!” yelped the scholar.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Chapter I: The Grand Hall</title>
+      <link>http://localhost:1313/posts/chapter-1/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      <guid>http://localhost:1313/posts/chapter-1/</guid>
+      <description>&lt;p&gt;Three hundred and forty-eight years, six months, and nineteen days ago&#xA;to-day, the Parisians awoke to the sound of all the bells in the triple&#xA;circuit of the city, the university, and the town ringing a full peal.&lt;/p&gt;&#xA;&lt;p&gt;The sixth of January, 1482, is not, however, a day of which history has&#xA;preserved the memory. There was nothing notable in the event which thus&#xA;set the bells and the bourgeois of Paris in a ferment from early morning.&#xA;It was neither an assault by the Picards nor the Burgundians, nor a hunt&#xA;led along in procession, nor a revolt of scholars in the town of Laas, nor&#xA;an entry of “our much dread lord, monsieur the king,” nor even a pretty&#xA;hanging of male and female thieves by the courts of Paris. Neither was it&#xA;the arrival, so frequent in the fifteenth century, of some plumed and&#xA;bedizened embassy. It was barely two days since the last cavalcade of that&#xA;nature, that of the Flemish ambassadors charged with concluding the&#xA;marriage between the dauphin and Marguerite of Flanders, had made its&#xA;entry into Paris, to the great annoyance of M. le Cardinal de Bourbon,&#xA;who, for the sake of pleasing the king, had been obliged to assume an&#xA;amiable mien towards this whole rustic rabble of Flemish burgomasters, and&#xA;to regale them at his Hôtel de Bourbon, with a very “pretty morality,&#xA;allegorical satire, and farce,” while a driving rain drenched the&#xA;magnificent tapestries at his door.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

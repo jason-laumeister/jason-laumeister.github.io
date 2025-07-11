@@ -6,7 +6,7 @@ category: about
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
 {:.center}
-Besides science and technology, I enjoy DIY projects, gardening, sailing, and cooking interesting food.
+Besides science and technology, I enjoy DIY projects, sailing, cooking, and spending time with my family.
 
 [comment]: # {:.center}
 [comment]: # Additional Skills:

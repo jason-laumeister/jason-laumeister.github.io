@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ananke: a Hugo Theme on Jason Laumeister Home</title>
+    <title>Ananke: a Hugo Theme on Jason Laumeister</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content in Ananke: a Hugo Theme on Jason Laumeister Home</description>
+    <description>Recent content in Ananke: a Hugo Theme on Jason Laumeister</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 10 Jul 2025 13:33:05 -0700</lastBuildDate>
@@ -30,11 +30,39 @@
       <description></description>
     </item>
     <item>
+      <title>A Full and Comprehensive Style Test (old Jekyll MD)</title>
+      <link>http://localhost:1313/posts/test-modified-jekyll/</link>
+      <pubDate>Wed, 01 Jan 2025 01:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/posts/test-modified-jekyll/</guid>
+      <description>&lt;h2 id=&#34;doe&#34;&gt;doe&lt;/h2&gt;&#xA;&lt;p&gt;Below is just about everything you&amp;rsquo;ll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-header&#34;&gt;1. Header&lt;/h2&gt;&#xA;&lt;h1 id=&#34;header-1&#34;&gt;Header 1&lt;/h1&gt;&#xA;&lt;h2 id=&#34;header-2&#34;&gt;Header 2&lt;/h2&gt;&#xA;&lt;h3 id=&#34;header-3&#34;&gt;Header 3&lt;/h3&gt;&#xA;&lt;h4 id=&#34;header-4&#34;&gt;Header 4&lt;/h4&gt;&#xA;&lt;h5 id=&#34;header-5&#34;&gt;Header 5&lt;/h5&gt;&#xA;&lt;h6 id=&#34;header-6&#34;&gt;Header 6&lt;/h6&gt;&#xA;&lt;h3 id=&#34;1-1-header-alignment&#34;&gt;1-1. Header Alignment&lt;/h3&gt;&#xA;&lt;h5 id=&#34;leftdefault&#34;&gt;Left(Default)&lt;/h5&gt;&#xA;&lt;h2 id=&#34;2-body-text&#34;&gt;2. Body Text&lt;/h2&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, &lt;a href=&#34;https://www.google.com&#34;&gt;test link&lt;/a&gt; adipiscing elit. &lt;strong&gt;This is strong.&lt;/strong&gt; Nullam dignissim convallis est. Quisque aliquam. &lt;em&gt;This is emphasized.&lt;/em&gt; Donec faucibus. Nunc iaculis suscipit dui.  = 125. Water is Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. . Maecenas ornare tortor. Donec sed tellus eget &lt;code&gt;COPY filename&lt;/code&gt; sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at,    commodo vitae, feugiat in, nunc. Morbi imperdiet augue &lt;!-- raw HTML omitted --&gt;mark element&lt;!-- raw HTML omitted --&gt; quis tellus.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A Full and Comprehensive Style Test (old Jekyll MD)</title>
+      <link>http://localhost:1313/posts/test-styles-jekyll/</link>
+      <pubDate>Wed, 01 Jan 2025 01:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/posts/test-styles-jekyll/</guid>
+      <description>&lt;p&gt;Below is just about everything you&amp;rsquo;ll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-header&#34;&gt;1. Header&lt;/h2&gt;&#xA;&lt;h1 id=&#34;header-1&#34;&gt;Header 1&lt;/h1&gt;&#xA;&lt;h2 id=&#34;header-2&#34;&gt;Header 2&lt;/h2&gt;&#xA;&lt;h3 id=&#34;header-3&#34;&gt;Header 3&lt;/h3&gt;&#xA;&lt;h4 id=&#34;header-4&#34;&gt;Header 4&lt;/h4&gt;&#xA;&lt;h5 id=&#34;header-5&#34;&gt;Header 5&lt;/h5&gt;&#xA;&lt;h6 id=&#34;header-6&#34;&gt;Header 6&lt;/h6&gt;&#xA;&lt;h3 id=&#34;1-1-header-alignment&#34;&gt;1-1. Header Alignment&lt;/h3&gt;&#xA;&lt;h5 id=&#34;leftdefault&#34;&gt;Left(Default)&lt;/h5&gt;&#xA;&lt;h5 id=&#34;center&#34;&gt;Center&lt;/h5&gt;&#xA;&lt;p&gt;{: .center}&lt;/p&gt;&#xA;&lt;h5 id=&#34;right&#34;&gt;Right&lt;/h5&gt;&#xA;&lt;p&gt;{: .right}&lt;/p&gt;&#xA;&lt;h2 id=&#34;2-body-text&#34;&gt;2. Body Text&lt;/h2&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, &lt;a href=&#34;https://www.google.com&#34;&gt;test link&lt;/a&gt; adipiscing elit. &lt;strong&gt;This is strong.&lt;/strong&gt; Nullam dignissim convallis est. Quisque aliquam. &lt;em&gt;This is emphasized.&lt;/em&gt; Donec faucibus. Nunc iaculis suscipit dui. 5&lt;!-- raw HTML omitted --&gt;3&lt;!-- raw HTML omitted --&gt; = 125. Water is H&lt;!-- raw HTML omitted --&gt;2&lt;!-- raw HTML omitted --&gt;O. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. &lt;!-- raw HTML omitted --&gt;Underline&lt;!-- raw HTML omitted --&gt;. Maecenas ornare tortor. Donec sed tellus eget &lt;code&gt;COPY filename&lt;/code&gt; sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, &lt;!-- raw HTML omitted --&gt;Dinner’s at 5:00.&lt;!-- raw HTML omitted --&gt; commodo vitae, feugiat in, nunc. Morbi imperdiet augue &lt;!-- raw HTML omitted --&gt;mark element&lt;!-- raw HTML omitted --&gt; quis tellus.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Credits for technologies used in the construction of this website.</title>
       <link>http://localhost:1313/credits/</link>
       <pubDate>Wed, 01 Jan 2025 01:00:00 -0700</pubDate>
       <guid>http://localhost:1313/credits/</guid>
       <description>&lt;p&gt;{{ post.title }}&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;&#xA;&lt;p&gt;This website is constructed using &lt;a href=&#34;https://pages.github.com/&#34;&gt;Github Pages&lt;/a&gt; and &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt;. Read the &lt;a href=&#34;https://jekyllrb.com/docs/home&#34;&gt;Jekyll docs&lt;/a&gt; for more details on how it works.&lt;/p&gt;&#xA;&lt;p&gt;Thank you &lt;a href=&#34;https://github.com/sergiokopplin&#34;&gt;Sergio Koppln&lt;/a&gt; for creating the &lt;a href=&#34;https://github.com/sergiokopplin/indigo&#34;&gt;indigo&lt;/a&gt; Jekyll theme that is used as a base for this site.&lt;/p&gt;&#xA;&lt;p&gt;Inexpensive and adequate domain name registration can be had at &lt;a href=&#34;https://www.namesilo.com/&#34;&gt;namesilo.com&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Github pages are accessed over HTTP, but &lt;a href=&#34;https://www.cloudflare.com/&#34;&gt;Cloudflare&lt;/a&gt; provides SSL support. Read &lt;a href=&#34;https://blog.cloudflare.com/secure-and-fast-github-pages-with-cloudflare/&#34;&gt;&amp;ldquo;Secure and fast GitHub Pages with CloudFlare&amp;rdquo;&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://developers.google.com/speed/libraries/&#34;&gt;Google Hosted Libraries&lt;/a&gt; are an excellent way to include common javascript libraries hosted on the Google CDN services. These are widely used, so it&amp;rsquo;s likely that these are already in the browser cache of your target audience too.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Markdown Common Elements (old Jekyll MD)</title>
+      <link>http://localhost:1313/posts/test-markdown-common-elements-jekyll/</link>
+      <pubDate>Wed, 01 Jan 2025 01:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/posts/test-markdown-common-elements-jekyll/</guid>
+      <description>&lt;h2 id=&#34;ons&#34;&gt;ons&lt;/h2&gt;&#xA;&lt;h2 id=&#34;summary&#34;&gt;Summary:&lt;/h2&gt;&#xA;&lt;p&gt;You can pick as item to see how to apply in markdown.&lt;/p&gt;&#xA;&lt;h3 id=&#34;comum-elements&#34;&gt;Comum Elements&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#basic-formatting&#34;&gt;Basic formatting&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#headings&#34;&gt;Headings&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#lists&#34;&gt;Lists&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#paragraph-modifiers&#34;&gt;Paragraph Modifiers&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#urls&#34;&gt;Urls&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#horizontal-rule&#34;&gt;Horizontal Rule&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#images&#34;&gt;Images&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#code&#34;&gt;Code&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;basic-formatting&#34;&gt;Basic formatting&lt;/h2&gt;&#xA;&lt;p&gt;This note &lt;strong&gt;demonstrates&lt;/strong&gt; some of what &lt;a href=&#34;http://daringfireball.net/projects/markdown/&#34;&gt;Markdown&lt;/a&gt; is &lt;em&gt;capable of doing&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;p&gt;And that&amp;rsquo;s how to do it.&lt;/p&gt;&#xA;&lt;p&gt;{% highlight html %}&#xA;This note &lt;strong&gt;demonstrates&lt;/strong&gt; some of what [Markdown][some/link] is &lt;em&gt;capable of doing&lt;/em&gt;.&#xA;{% endhighlight %}&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;headings&#34;&gt;Headings&lt;/h2&gt;&#xA;&lt;p&gt;There are six levels of headings. They correspond with the six levels of HTML headings. You&amp;rsquo;ve probably noticed them already in the page. Each level down uses one more hash character. But we are using just 4 of them.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Markdown Extra Components (old Jekyll MD)</title>
+      <link>http://localhost:1313/posts/test-markdown-extra-components-jekyll/</link>
+      <pubDate>Wed, 01 Jan 2025 01:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/posts/test-markdown-extra-components-jekyll/</guid>
+      <description>&lt;h2 id=&#34;ons&#34;&gt;ons&lt;/h2&gt;&#xA;&lt;h2 id=&#34;summary&#34;&gt;Summary:&lt;/h2&gt;&#xA;&lt;p&gt;You can pick as item to see how to apply in markdown.&lt;/p&gt;&#xA;&lt;h4 id=&#34;especial-elements&#34;&gt;Especial Elements&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#evidence&#34;&gt;Evidence&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#side-by-side&#34;&gt;Side-by-Side&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#star&#34;&gt;Star&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#especial-breaker&#34;&gt;Especial Breaker&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#spoiler&#34;&gt;Spoiler&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;external-elements&#34;&gt;External Elements&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#gist&#34;&gt;Gist&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#codepen&#34;&gt;Codepen&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#slideshare&#34;&gt;Slideshare&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#videos&#34;&gt;Videos&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;evidence&#34;&gt;Evidence&lt;/h2&gt;&#xA;&lt;p&gt;You can try the evidence!&lt;/p&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;Paragraphs can be written like so. A paragraph is the basic block of Markdown. A paragraph is what text will turn into when there is no reason it should become anything else.&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Playing God in Space Haven</title>
@@ -51,18 +79,32 @@
       <description>&lt;h2 id=&#34;choose-a-resume-file-format-below&#34;&gt;Choose a resume file format below.&lt;/h2&gt;&#xA;&lt;h4 id=&#34;note-that-you-can-right-click-a-link-and-select-save-link-as-to-download-a-copy&#34;&gt;Note that you can right-click a link and select &amp;ldquo;Save Link As&amp;rdquo; to download a copy.&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;resume-jason-laumeister.html&#34;&gt;HTML&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;resume-jason-laumeister.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;resume-jason-laumeister.doc&#34;&gt;Microsoft Word&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;resume-jason-laumeister.json&#34;&gt;JSON&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Read more about JSON resume schema format at &lt;a href=&#34;https://jsonresume.org/schema/&#34;&gt;jsonresume.org&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;available-for-remote-roles&#34;&gt;Available for remote roles.&lt;/h2&gt;</description>
     </item>
     <item>
+      <title>Syntax Highlighting Post (old Jekyll MD)</title>
+      <link>http://localhost:1313/posts/test-code-highlighting-jekyll/</link>
+      <pubDate>Wed, 01 Jan 2025 01:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/posts/test-code-highlighting-jekyll/</guid>
+      <description>&lt;p&gt;Syntax highlighting is a feature that displays source code, in different colors and fonts according to the category of terms. This feature facilitates writing in a structured language such as a programming language or a markup language as both structures and syntax errors are visually distinct. Highlighting does not affect the meaning of the text itself; it is intended only for human readers.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;highlighted-code-blocks&#34;&gt;Highlighted Code Blocks&lt;/h3&gt;&#xA;&lt;p&gt;To modify styling and highlight colors edit &lt;code&gt;/_sass/_highlighter.scss&lt;/code&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Test Post Title</title>
       <link>http://localhost:1313/posts/test-post/</link>
       <pubDate>Wed, 01 Jan 2025 01:00:00 -0700</pubDate>
       <guid>http://localhost:1313/posts/test-post/</guid>
-      <description>&lt;p&gt;&amp;ldquo;{{ post.url }}&amp;rdquo;&lt;/p&gt;&#xA;&lt;h2 id=&#34;introduction-test-post&#34;&gt;Introduction Test Post&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
+      <description>&lt;p&gt;ry 2&amp;rsquo;]&#xA;+++&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;{{ post.url }}&amp;rdquo;&lt;/p&gt;&#xA;&lt;h2 id=&#34;introduction-test-post&#34;&gt;Introduction Test Post&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the [Hugo](&lt;a href=&#34;https://gohugo.i&#34;&gt;https://gohugo.i&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Testing Readability with a Bunch of Text (old Jekyll MD)</title>
+      <link>http://localhost:1313/posts/test-readability-jekyll/</link>
+      <pubDate>Wed, 01 Jan 2025 01:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/posts/test-readability-jekyll/</guid>
+      <description>&lt;h2 id=&#34;rue&#34;&gt;rue&lt;/h2&gt;&#xA;&lt;p&gt;Portland in shoreditch Vice, labore typewriter pariatur hoodie fap sartorial Austin. Pinterest literally occupy Schlitz forage. Odio ad blue bottle vinyl, 90&amp;rsquo;s narwhal commodo bitters pour-over nostrud. Ugh est hashtag in, fingerstache adipisicing laboris esse Pinterest shabby chic Portland. Shoreditch bicycle rights anim, flexitarian laboris put a bird on it vinyl cupidatat narwhal. Hashtag artisan skateboard, flannel Bushwick nesciunt salvia aute fixie do plaid post-ironic dolor McSweeney&amp;rsquo;s. Cliche pour-over chambray nulla four loko skateboard sapiente hashtag.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Chapter III: Monsieur the Cardinal</title>
       <link>http://localhost:1313/posts/chapter-3/</link>
       <pubDate>Tue, 11 Apr 2017 11:13:32 -0400</pubDate>
       <guid>http://localhost:1313/posts/chapter-3/</guid>
-      <description>&lt;p&gt;Poor Gringoire! the din of all the great double petards of the Saint-Jean,&#xA;the discharge of twenty arquebuses on supports, the detonation of that&#xA;famous serpentine of the Tower of Billy, which, during the siege of Paris,&#xA;on Sunday, the twenty-sixth of September, 1465, killed seven Burgundians&#xA;at one blow, the explosion of all the powder stored at the gate of the&#xA;Temple, would have rent his ears less rudely at that solemn and dramatic&#xA;moment, than these few words, which fell from the lips of the usher, “His&#xA;eminence, Monseigneur the Cardinal de Bourbon.”&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;cardinal&#34;&gt;Cardinal&amp;quot;&lt;/h2&gt;&#xA;&lt;p&gt;Poor Gringoire! the din of all the great double petards of the Saint-Jean,&#xA;the discharge of twenty arquebuses on supports, the detonation of that&#xA;famous serpentine of the Tower of Billy, which, during the siege of Paris,&#xA;on Sunday, the twenty-sixth of September, 1465, killed seven Burgundians&#xA;at one blow, the explosion of all the powder stored at the gate of the&#xA;Temple, would have rent his ears less rudely at that solemn and dramatic&#xA;moment, than these few words, which fell from the lips of the usher, “His&#xA;eminence, Monseigneur the Cardinal de Bourbon.”&lt;/p&gt;</description>
     </item>
     <item>
       <title>Chapter II: Pierre Gringoire</title>
@@ -83,7 +125,7 @@
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/Victor_Hugo-Hunchback.jpg&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;h4&gt;Illustration from Victor Hugo et son temps (1881)&lt;/h4&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;&lt;em&gt;The Hunchback of Notre-Dame&lt;/em&gt; (French: &lt;em&gt;Notre-Dame de Paris&lt;/em&gt;) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England. The story is set in Paris, France in the Late Middle Ages, during the reign of Louis XI.&lt;/p&gt;</description>
+      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/gohugo-default-sample-hero-image.jpg&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;h4&gt;Image of Jason&lt;/h4&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;&lt;em&gt;The Hunchback of Notre-Dame&lt;/em&gt; (French: &lt;em&gt;Notre-Dame de Paris&lt;/em&gt;) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England. The story is set in Paris, France in the Late Middle Ages, during the reign of Louis XI.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contact</title>

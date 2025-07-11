@@ -6,7 +6,7 @@ subtitle = 'Test Post Subtitle'
 description = 'Test Post Description'
 author = 'Test Post Author'
 image = ''
-tags = ['test', 'draft']
+tags = ['test', 'markdown', 'hugo']
 categories = ['category 1', 'category 2']
 +++
 

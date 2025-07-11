@@ -1,9 +1,10 @@
 ---
+draft: true
 layout: post
-title: "Syntax Highlighting Post"
+title: "Syntax Highlighting Post (old Jekyll MD)"
 description: "Demo post displaying the various ways of highlighting code in Markdown."
-date: 2017-07-20
-tags: test, markdown
+date: 2025-01-01T01:00:00-07:00
+tags: ['test', 'markdown', 'jekyll']
 category: test
 #comments: true
 ---

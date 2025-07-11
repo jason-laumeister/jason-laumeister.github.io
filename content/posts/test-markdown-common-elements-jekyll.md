@@ -1,10 +1,11 @@
 ---
-title: "Markdown Common Elements"
+draft: true
+title: "Markdown Common Elements (old Jekyll MD)"
 layout: post
-date: 2016-02-24 22:44
+date: 2025-01-01T01:00:00-07:00
 image: /assets/images/markdown.jpg
 headerImage: false
-tags: test, markdown
+tags: test, markdown, jekyll
 category: test
 author: johndoe
 description: Markdown summary with different options
