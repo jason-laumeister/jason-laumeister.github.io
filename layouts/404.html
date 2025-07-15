@@ -1,0 +1,9 @@
+{{ define "header" }}{{ partials.Include "page-header.html" . }}{{ end }}
+{{ define "main" }}
+    <article class="center cf pv5 measure-wide-l">
+      <h1>404</h1>
+      <h2>Page Not Found.</h2>
+      <p>Sorry, but the page you were looking for does not exist.</p>
+      <p><a href="{{ site.BaseURL }}">Home</a></p>
+    </article>
+{{ end }}

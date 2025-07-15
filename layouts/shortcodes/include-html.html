@@ -1,0 +1,17 @@
+{{/*  
+  Shortcode to insert an HTML file into a page.
+
+  Note:
+  readFile cannot read from /static because readFile only works with files in:
+  assets/
+
+  Usage:
+  {{ include-html file="/path/to/file.html" >}}
+  {{ include-html file='/assets/shark_lol_attack.html' >}}
+
+  */}}
+
+<!-- layouts/shortcodes/include-html.html -->
+<div class="included-html">
+  {{ readFile (.Get "file") | safeHTML }}
+</div>

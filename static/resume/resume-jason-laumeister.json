@@ -1,0 +1,299 @@
+{
+	"basics": {
+		"name": "Jason Laumeister",
+		"label": "Experienced engineering leader with a proven track record in full-stack development, product delivery, and technical consulting. Expertise in leading cross-functional engineering teams.",
+		"email": "jason.laumeister@gmail.com",
+		"website": "https://www.jasonlaumeister.com",
+		"summary": "Resume of Jason Laumeister, jasonlaumeister.com",
+		"location": {
+			"countryCode": "US",
+			"region": "California"
+		},
+		"profiles": [
+			{
+				"network": "github",
+				"url": "https://github.com/jason-laumeister"
+			}
+		]
+	},
+	"work": [
+		{
+			"company": "Stealth Startup",
+			"position": "Senior Developer",
+			"startDate": "2024-12-01",
+			"endDate": "2025-06-01",
+			"highlights": [
+				"Led the architecture and development of an Integration Platform as a Service (iPaaS) solution.one",
+				"Focused on scalable architecture, system interoperability, and seamless data integration across diverse applications including LLM AI."
+			]
+		},
+		{
+			"company": "Private Estate and Trust",
+			"position": "Horse Ranch Manager, Board Member 501(c)(3)",
+			"startDate": "2023-08-01",
+			"endDate": "2024-11-01",
+			"summary": "Sabbatical",
+			"highlights": [
+				"Managed daily operations of a private horse ranch, including property oversight, tenant coordination, and facilities maintenance.",
+				"Served on the board of a registered charitable 501(c)(3) trust, contributing to organizational governance and strategic philanthropic planning."
+			]
+		},
+		{
+			"company": "Sunrun",
+			"position": "Senior Software Engineer",
+			"startDate": "2021-11-01",
+			"endDate": "2023-07-01",
+			"highlights": [
+				"Developed proprietary distributed software for the management and distribution of energy across intrastate power grids."
+			]
+		},
+		{
+			"company": "Issuu",
+			"position": "Solution Integration Engineer",
+			"startDate": "2021-01-01",
+			"endDate": "2021-10-01",
+			"highlights": [
+				"Designed and implemented integrations between Issuu's publishing platform and third-party tools such as Adobe and Canva.",
+				"Collaborated with the marketing team to define product priorities and roadmap features.",
+				"Sole U.S.-based engineer coordinating with distributed teams in Denmark, Germany, and Portugal."
+			]
+		},
+		{
+			"company": "Pando (pandopooling.com)",
+			"position": "Project Manager, Senior Software Engineer",
+			"startDate": "2019-09-01",
+			"endDate": "2020-09-01",
+			"highlights": [
+				"Led the development of a financial technology platform enabling pooled income contracts as a safety net against income volatility.",
+				"Directed Agile development processes and managed an international engineering team.",
+				"Contributed to product design, feature scoping, and implementation strategy."
+			]
+		},
+		{
+			"company": "Independant Consultant",
+			"position": "Software Systems Architect & Senior Software Engineer",
+			"startDate": "2018-03-01",
+			"endDate": "2019-09-01",
+			"highlights": [
+				"Developed a SaaS licensing server for a major cloud storage provider.",
+				"Built a GIS application for tracking feral animal colonies and TNR programs.",
+				"Consulted on livestock management systems for an agricultural technology startup."
+			]
+		},
+		{
+			"company": "Sapient (contract)",
+			"position": "Software Systems Architect & Engineering Team Lead",
+			"startDate": "2017-10-01",
+			"endDate": "2018-03-01",
+			"summary": "Led five person engineering architecture team during project design phase.",
+			"highlights": [
+				"Led system architecture for a financial services portal, managing a five-person architecture team.",
+				"Delivered full-stack solutions (Angular frontend, Java/PostgreSQL backend).",
+				"Integrated third-party services such as Yodlee, Albridge, and IAM systems.",
+				"Designed containerized microservices architecture using Docker and Rancher."
+			]
+		},
+		{
+			"company": "Independent Consultant (contract)",
+			"position": "Software Systems Architect & Senior Software Engineer",
+			"startDate": "2017-06-01",
+			"endDate": "2017-10-01",
+			"summary": "Consultant, Multiple Clients.",
+			"highlights": [
+				"Advised Persistent Systems on CIAM project implementation.",
+				"Developed mesh-networked sensor solutions for stealth startups.",
+				"Designed remote-enabled GPS sensor networks for agricultural asset tracking.",
+				"Prototyped a decentralized blockchain platform for local energy trading."
+			]
+		},
+		{
+			"company": "Gigya",
+			"position": "Lead Technical Consultant, Professional Services",
+			"startDate": "2014-08-01",
+			"endDate": "2017-06-01",
+			"summary": "Full time Position. Professional Services Consultant on multiple CIAM projects for multiple clients.",
+			"highlights": [
+				"Lead consultant for large-scale CIAM projects across global enterprise clients.",
+				"Designed and deployed integrations involving CMS, CRM, ESP, and DMP platforms.",
+				"Built the Professional Services function from the ground up, including internal documentation and onboarding.",
+				"Notable clients: Turner, Sony, GE, Marriott, Time Warner, NBA, NFL, Universal Music Group, American Heart Association, and others."
+			]
+		},
+		{
+			"company": "BeyondCore (startup)",
+			"position": "Senior Projects Engineer",
+			"startDate": "2014-04-01",
+			"endDate": "2014-08-01",
+			"highlights": [
+				"Reported directly to CTO, developing secure system admin tools and release procedures.",
+				"Designed and implemented data connectors for large-scale SQL and NoSQL data sources, enabling integration with high-volume distributed data systems commonly used in big data architectures."
+			]
+		},
+		{
+			"company": "Treofab (startup)",
+			"position": "Director of Software Engineering",
+			"startDate": "2013-10-01",
+			"endDate": "2014-04-01",
+			"highlights": [
+				"Managed distributed development teams for 3D printing and custom manufacturing software.",
+				"Coauthored a patent for a 3D object application builder.",
+				"Built real-time pricing APIs based on CAD/STL object properties, royalty calculations, and international currency conversion.",
+				"Developed 3D object editors and custom checkout systems integrated with partner manufacturing services."
+			]
+		},
+		{
+			"company": "Tocata / Revel Touch",
+			"position": "API Projects Manager, Senior Software Engineer",
+			"startDate": "2012-03-01",
+			"endDate": "2013-10-01",
+			"highlights": [
+				"Lead developer of Design Within Reach shopping app, a <a href='https://winners.webbyawards.com/2013/apps-dapps-and-software/tablet-and-all-other-devices/shopping-tablet-all-other-devices/146503/design-within-reach-ipad-app'>2013 Webby Award nominee for excellence in mobile commerce</a>.",
+				"Designed scalable REST APIs for mobile and web commerce platforms.",
+				"Integrated backend systems for Fortune 1000 retail partners."
+			]
+		},
+		{
+			"company": "iWin",
+			"position": "Senior Software Engineer",
+			"startDate": "2011-08-01",
+			"endDate": "2012-03-01",
+			"highlights": [
+				"Developed branded casual gaming site in partnership with Pogo and Electronic Arts."
+			]
+		},
+		{
+			"company": "Adknowledge",
+			"position": "Monetization and API Systems Engineer",
+			"startDate": "2010-02-01",
+			"endDate": "2011-08-01",
+			"highlights": [
+				"Designed monetization, ad services, and payment processing systems for social gaming apps."
+			]
+		},
+		{
+			"company": "SGN",
+			"position": "Social Game Developer",
+			"startDate": "2008-10-01",
+			"endDate": "2010-02-01",
+			"highlights": [
+				"Created Facebook/MySpace social games with dynamic virtual economies.",
+				"Integrated advertising and payment platforms, social authentication, and viral engagement mechanisms."
+			]
+		},
+		{
+			"company": "Tinyprints",
+			"position": "Senior Software Engineer",
+			"startDate": "2007-07-01",
+			"endDate": "2008-10-01",
+			"highlights": [
+				"Early engineering hire; established release processes and coding standards.",
+				"Built core eCommerce systems including checkout, coupons, and gift certificates."
+			]
+		},
+		{
+			"company": "Yahoo Autos",
+			"position": "Senior Software Engineer (contract)",
+			"startDate": "2006-10-01",
+			"endDate": "2007-07-01",
+			"highlights": [
+				"Led CMS adoption for Yahoo Autos and managed RSS feed integration on Yahoo homepage.",
+				"Contributed to record-setting engagement during international auto show coverage."
+			]
+		}
+	],
+	"awards": [
+		{
+			"title": "Webby Award Nominee",
+			"date": "2013-01-01",
+			"awarder": "WebbyAwards.com",
+			"summary": "Mobile Shopping Applications, Application Developer, https://winners.webbyawards.com/2013/apps-dapps-and-software/tablet-and-all-other-devices/shopping-tablet-all-other-devices/146503/design-within-reach-ipad-app"
+		}
+	],
+	"publications": [
+		{
+			"name": "US Patent Office",
+			"publisher": "Treofab",
+			"releaseDate": "2014-02-01",
+			"summary": "Coauthored patent '3 Dimensional Manufactured Object Application Builder'"
+		}
+	],
+	"skills": [
+		{
+			"name": "Development",
+			"level": "Master",
+			"keywords": [
+				"AJAX",
+				"API",
+				"AWS",
+				"Android",
+				"Angular",
+				"Apache",
+				"Bitcoin",
+				"Bootstrap",
+				"C#",
+				"C++",
+				"CIAM",
+				"CSS",
+				"Cryptocurrency",
+				"Docker",
+				"Django",
+				"Ethereum",
+				"Front End",
+				"GitHub",
+				"Go",
+				"Google Firebase",
+				"HTML",
+				"IAM",
+				"iOS",
+				"JSON",
+				"Java",
+				"JavaScript",
+				"jQuery",
+				"LAMP",
+				"Linux",
+				"MySQL",
+				"Nginx",
+				"NoSQL",
+				"Node.js",
+				"ORM",
+				"OS X",
+				"PHP",
+				"Perl",
+				"PostgreSQL",
+				"Prototype",
+				"Python",
+				"Rancher",
+				"React",
+				"Ruby",
+				"SQL",
+				"TypeScript",
+				"Windows",
+				"XML"
+			]
+		},
+		{
+			"name": "Experience",
+			"level": "Master",
+			"keywords": [
+				"Experienced engineering leader with a proven track record in full-stack development, product delivery, and technical consulting.",
+				"Expertise in leading cross-functional engineering teams, delivering complex software projects, and integrating large-scale systems such as eCommerce, financial services, and manufacturing.",
+				"Software Product Development & Systems Architecture through design, implementation, and delivery.",
+				"Engineering Team Management focused on collaboration, performance, and retention.",
+				"Implementation of Agile methodologies and repeatable processes.",
+				"Multi-Vendor System Integration of third-party platforms and APIs across complex distributed environments.",
+				"Design and deployment of RESTful & Stateful APIs, ORM layers, and high-performance data stores.",
+				"Development of secure, scalable online commerce platforms, payment gateways, and financial data integration layers.",
+				"Architecture and development of merchandising solutions with dynamic cataloging and inventory management. App Developer of Webby Awards 2013 Nominee Mobile Shopping Apps.",
+				"CIAM / IAM Implementation & Security Best Practices including identity frameworks, SSO, and authentication/authorization protocols.",
+				"3D Printing & Custom Manufacturing Systems.",
+				"Blockchain technologies including smart contracts and decentralized apps (dApps)."
+			]
+		}
+	],
+	"languages": [
+		{
+			"name": "English",
+			"level": "Native speaker"
+		}
+	]
+}

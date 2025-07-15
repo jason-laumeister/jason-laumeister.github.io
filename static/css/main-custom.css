@@ -1,0 +1,13 @@
+p {
+    text-align: left;
+}
+
+figure.float-right {
+    float: right;
+    padding: 4px;
+}
+
+figure.float-left {
+    float: left;
+    padding: 4px;
+}

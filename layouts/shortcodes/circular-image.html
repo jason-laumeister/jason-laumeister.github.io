@@ -1,0 +1,38 @@
+{{/*  
+    This shortcode uses Hugo's built-in image processing to create a circular mask for the image.
+    The image will be resized and cropped to fit within a circular shape.
+
+    Note: Ensure the aspect ratio of the image is considered when setting the dimensions to avoid 
+    distortion inside the circular mask. Consider using the object-fit: cover property to ensure 
+    the image covers the entire circular area without distortion. Remember that Hugo's image 
+    processing does not preserve EXIF data. You may need to experiment with different resizing 
+    and cropping options to achieve the desired effect. 
+
+    Usage:
+    {{< circular-image src="/path/to/image.jpg" alt="Description" >}}
+    {{< circular_image src="/images/my-image.jpg" alt="A circular image" size="200x200" >}}
+
+    - `src`: Path to the image file.
+    - `alt`: Alternative text for the image.
+    - `size`: Optional, specify the size of the circular image (default is "150x150").
+
+  */}}
+
+<!-- layouts/shortcodes/circular_image.html -->
+{{ $src := .Get "src" }}
+{{ $alt := .Get "alt" }}
+{{ $size := .Get "size" | default "200x200" }}
+{{ $image := resources.Get $src }}
+
+{{/* Debugging output
+    {{ printf "%#v" $src }}
+    {{ printf "%#v" $size }}
+    {{ printf "%#v" $image }}
+ */}}
+
+{{ with $image }}
+    {{ $circularImage := .Fill (print $size " center") }}
+    <img src="{{ $circularImage.RelPermalink }}" alt="{{ $alt }}" class="circular-image">
+{{ else }}
+    <p>Image not found in shortcode circular-image: {{ $src }}</p>
+{{ end }}
