@@ -7,11 +7,11 @@ icon_path = "ananke/socials/%s.svg"
 [ananke.social.follow]
 new_window_icon = false # show a little "opens in new window" icon next to the link
 # add networks to this list in your local config to enable them, remove them to disable them.
-networks = [
+# networks = [
 #   "facebook",
-  "bluesky",
-  "linkedin"
-]
+#   "bluesky",
+#   "linkedin"
+# ]
 
 [ananke.social.share]
 icons = true # show icons for each share link
