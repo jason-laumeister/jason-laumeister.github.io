@@ -73,3 +73,6 @@ DefaultContentLanguage = "en"
     # Allow unsafe embed of raw html in MD files. Only OK because we control all content files on this site. 
     unsafe = true 
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
