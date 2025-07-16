@@ -1,6 +1,6 @@
 ---
 cascade:
-  title: "Jason Laumeister"
+  ## title: "Jason Laumeister"
   description: "Software Engineering and Technology Tamed."
   date: 2025-07-01T01:00:00-07:00
   author: 'Jason Laumeister'
@@ -9,4 +9,6 @@ cascade:
   # tags: []
 ---
 
-## [{{< circular-image src="/images/jasonlaumeister-593.jpg" alt="Image of Jason" size="100x100" >}} Jason's Resume](/resume/)
+#### Available for hire.&nbsp;&nbsp;&nbsp;&nbsp;Remote preferred.
+### [{{< circular-image src="/images/jasonlaumeister-593.jpg" alt="Image of Jason" size="100x100" >}} See Jason's Resume](/resume/)
+---

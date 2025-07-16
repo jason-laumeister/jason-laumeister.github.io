@@ -12,7 +12,7 @@ Thank to the folks who created the Hugo [Ananke theme](https://github.com/theNew
 
 Inexpensive and adequate domain name registration can be had at [namesilo.com](https://www.namesilo.com/).
 
-Github pages now support HTTPS, but this site still uses [Cloudflare](https://www.cloudflare.com/) to provide SSL support and some caching. See ["Secure and fast GitHub Pages with CloudFlare"](https://blog.cloudflare.com/secure-and-fast-github-pages-with-cloudflare/). 
+The previous Jekyll version of this site used [Cloudflare](https://www.cloudflare.com/) to provide SSL support. I might do that again, if only for the caching and AI bot protection. See ["Secure and fast GitHub Pages with CloudFlare"](https://blog.cloudflare.com/secure-and-fast-github-pages-with-cloudflare/). 
 
 [Google Hosted Libraries](https://developers.google.com/speed/libraries/) are an excellent way to include common javascript libraries hosted on the Google CDN services. These are widely used, so it's likely that these are already in the browser cache of your target audience too.
 

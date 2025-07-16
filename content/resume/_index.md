@@ -7,8 +7,7 @@ tags: ['resume']
 category: 'resume'
 ---
 
-{{< circular-image src="/images/jasonlaumeister-593.jpg" alt="Image of Jason" size="200x200" >}}
-## [View Jason's Resume](/resume/resume-jason-laumeister.html)
+### <p>[{{< circular-image src="/images/jasonlaumeister-593.jpg" alt="Image of Jason" size="100x100" >}} View Jason's Resume](/resume/resume-jason-laumeister.html)</p>
 
 ---
 
