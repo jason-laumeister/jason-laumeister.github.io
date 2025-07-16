@@ -14,6 +14,7 @@ category: 'resume'
 
 #### <p>Download Jason's resume:</p>
 <p><a href="resume-jason-laumeister.pdf" download="resume-jason-laumeister.pdf">PDF Download</a></p>
+<p><a href="resume-jason-laumeister.docx" download="resume-jason-laumeister.docx">MS Word (docx) Download</a></p>
 <p><a href="resume-jason-laumeister.html" download="resume-jason-laumeister.html">HTML Download</a></p>
 <p><a href="resume-jason-laumeister.json" download="resume-jason-laumeister.json">JSON Download</a></p>
 
