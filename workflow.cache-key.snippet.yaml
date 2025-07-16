@@ -80,3 +80,19 @@
 # hashFiles('config.toml', 'hugo.toml', 'content/**', 'layouts/**', 'static/**', 'themes/**'): This is crucial for Hugo. It ensures that the cache is invalidated if your Hugo configuration, content, layouts, static assets, or theme files change.
 
 # github.sha: This is the SHA of the commit that triggered the workflow. It acts as a unique identifier for each commit, ensuring that every new commit gets a unique cache key (or restores from a very similar one if only minor changes occurred). This is your ultimate fallback for uniqueness.
+
+
+# In your .github/workflows/hugo.yaml, modify the upload step to ensure a unique artifact name if there’s any chance of multiple runs, for example:
+
+YAML
+- name: Upload artifact
+  uses: actions/upload-pages-artifact@v3
+  with:
+    path: ./public
+    name: github-pages-${{ github.run_id }}
+Or, if only one upload should ever happen, review the workflow to make sure the upload step is not duplicated by mistake.
+
+# Summary:
+
+# Only one artifact named github-pages should be uploaded per workflow run.
+# If you need more, use a unique name for each upload.
