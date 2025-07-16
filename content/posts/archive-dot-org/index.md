@@ -3,6 +3,7 @@ title: "archive.org historical media"
 description: "Much more than a snapshot service."
 date: 2025-07-10T13:25:35-07:00
 featured_image: 'monkeys1.png'
+tags: ['archive.org','video']
 ---
 
 Many people are familiar with the [wayback machine](https://web.archive.org/) site for exploring older versions of websites and preserving internet history.

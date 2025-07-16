@@ -6,6 +6,7 @@ cascade:
   author: 'Jason Laumeister'
   theme_version: '2.8.2'
   featured_image: '/images/wyoming-field-hero.jpg'
+  # tags: []
 ---
 
 # [{{< circular-image src="/images/jasonlaumeister-593.jpg" alt="Image of Jason" size="200x200" >}} Jason's Resume](/resume/)
