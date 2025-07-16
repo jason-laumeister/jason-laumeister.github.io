@@ -12,11 +12,11 @@ But the organization behind it, [archive.org](https://archive.org/about/), is mu
 
 If you're a fan of vintage cinema, a simple search yields a rich collection of downloadable classics, often with serious cult appeal. For example, see this selection of science fiction and horror films: [https://archive.org/details/SciFi_Horror](https://archive.org/details/SciFi_Horror).
 
-{{< figure src="carnival-of-souls.png" alt="Carnival of Souls movie poster" width="300px" class="float-left" >}}
+[{{< figure src="carnival-of-souls.png" alt="Carnival of Souls movie poster" width="300px" class="float-left" >}}](https://archive.org/details/CarnivalofSouls)
 
-One personal favorite — though it haunted me as a child — is Carnival of Souls [(IMDb)](https://www.imdb.com/title/tt0055830/). It’s available in all its wonderful low-budget glory [here on archive.org](https://archive.org/details/CarnivalofSouls).
+One personal favorite — though it haunted me as a child — is [Carnival of Souls](https://archive.org/details/CarnivalofSouls) [(IMDb)](https://www.imdb.com/title/tt0055830/). It’s available in all its wonderful low-budget glory [here on archive.org](https://archive.org/details/CarnivalofSouls).
 
-Their [audio archive](https://archive.org/details/audio) is equally impressive. It features a massive library of music, historic radio broadcasts, news programs, and spoken word recordings such as audiobooks. Old-time radio shows in particular offer a fascinating precursor to today’s podcast culture, showcasing serialized storytelling and atmospheric production that still hold up.
+The archive.org [audio archive](https://archive.org/details/audio) is equally impressive. It features a massive library of music, historic radio broadcasts, news programs, and spoken word recordings such as audiobooks. Old-time radio shows in particular offer a fascinating precursor to today’s podcast culture, showcasing serialized storytelling and atmospheric production that still hold up.
 
 {{< figure src="monkeys2.png" alt="Monkeys video screen shot capture" width="300px" class="float-right" >}}
 

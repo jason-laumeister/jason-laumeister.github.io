@@ -9,4 +9,4 @@ cascade:
   # tags: []
 ---
 
-# [{{< circular-image src="/images/jasonlaumeister-593.jpg" alt="Image of Jason" size="200x200" >}} Jason's Resume](/resume/)
+## [{{< circular-image src="/images/jasonlaumeister-593.jpg" alt="Image of Jason" size="100x100" >}} Jason's Resume](/resume/)
