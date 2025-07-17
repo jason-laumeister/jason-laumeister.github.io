@@ -20,3 +20,4 @@ category: 'resume'
 
 ---
 [2013 Webby Awards Nomination](https://winners.webbyawards.com/2013/apps-dapps-and-software/tablet-and-all-other-devices/shopping-tablet-all-other-devices/146503/design-within-reach-ipad-app)
+
