@@ -7,8 +7,8 @@ tags: ['resume']
 category: 'resume'
 ---
 
-#### Available for hire.&nbsp;&nbsp;&nbsp;&nbsp;Remote preferred.
 ### <p>[{{< circular-image src="/images/jasonlaumeister-593.jpg" alt="Image of Jason" size="100x100" >}} View Jason's Resume](/resume/resume-jason-laumeister.html)</p>
+#### <p>Available for hire.&nbsp;&nbsp;&nbsp;&nbsp;Remote preferred.</p>
 
 ---
 
@@ -19,6 +19,4 @@ category: 'resume'
 <p><a href="resume-jason-laumeister.json" download="resume-jason-laumeister.json">JSON Download</a></p>
 
 ---
-#### <p>Remote roles preferred.</p>
-
 [2013 Webby Awards Nomination](https://winners.webbyawards.com/2013/apps-dapps-and-software/tablet-and-all-other-devices/shopping-tablet-all-other-devices/146503/design-within-reach-ipad-app)
