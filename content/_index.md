@@ -10,5 +10,5 @@ cascade:
 ---
 
 ### [{{< circular-image src="/images/jasonlaumeister-593.jpg" alt="Image of Jason" size="100x100" >}} Jason's Resume](/resume/)
-#### Available for hire.&nbsp;&nbsp;&nbsp;&nbsp;Remote preferred.
+#### Available for hire.
 ---

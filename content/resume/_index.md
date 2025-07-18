@@ -8,7 +8,7 @@ category: 'resume'
 ---
 
 ### <p>[{{< circular-image src="/images/jasonlaumeister-593.jpg" alt="Image of Jason" size="100x100" >}} View Jason's Resume](/resume/resume-jason-laumeister.html)</p>
-#### <p>Available for hire.&nbsp;&nbsp;&nbsp;&nbsp;Remote preferred.</p>
+#### <p>Available for hire.</p>
 
 ---
 
