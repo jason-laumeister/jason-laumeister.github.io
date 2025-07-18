@@ -33,8 +33,7 @@ DefaultContentLanguage = "en"
 [params]
     header_image = 'images/wyoming-field-hero.jpg'
     SEOTitle = 'Resume of Jason Laumeister'
-    #description = 'Engineering and Technology Tamed'
-    keyword = 'Jason Laumeister, Laumeister, Software Engineering, Spacehaven, Space Haven'
+    keyword = 'Jason Laumeister, Laumeister, Software Engineering, Engineering Management'
     slogan = 'Engineering and Technology Tamed'
     upstreamAttribution = true
 
