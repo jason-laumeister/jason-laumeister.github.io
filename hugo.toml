@@ -31,7 +31,7 @@ DefaultContentLanguage = "en"
     filename = "sitemap.xml"
 
 [params]
-    header_image = 'img/home-bg-jeep.jpg'
+    header_image = 'images/wyoming-field-hero.jpg'
     SEOTitle = 'Resume of Jason Laumeister'
     #description = 'Engineering and Technology Tamed'
     keyword = 'Jason Laumeister, Laumeister, Software Engineering, Spacehaven, Space Haven'
