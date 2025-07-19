@@ -5,6 +5,6 @@ _site
 .jekyll-metadata
 .swp
 .hugo_build.lock
-PENDING
+content.PENDING
 public
 resources/_gen
