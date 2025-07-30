@@ -1,5 +1,9 @@
 title = 'Jason Laumeister'
 baseURL = 'https://jasonlaumeister.com'
+
+# if Copyright not set, then title is used
+Copyright = 'Jason Laumeister'
+
 languageCode = 'en-us'
 preserveTaxonomyNames = true
 
