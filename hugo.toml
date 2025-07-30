@@ -44,6 +44,7 @@ DefaultContentLanguage = "en"
     # Include any custom CSS and/or JS files, url or relative to /static folder
     #custom_css = ["css/lightbox.css", "https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css", "css/main.css"]
     custom_css = ['css/shortcodes.css', 'css/main-custom.css']
+    # I don't believe that the custom js array is working properly
     #custom_js = ["js/lightbox.js", "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js", "js/main.js"]
 
     description = 'Engineering and Technology Tamed'
