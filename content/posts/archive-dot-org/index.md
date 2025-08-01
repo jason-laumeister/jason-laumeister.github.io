@@ -2,7 +2,7 @@
 title: "archive.org historical media"
 description: "Much more than a snapshot service."
 date: 2025-07-10T13:25:35-07:00
-featured_image: 'monkeys1.png'
+featured_image: 'monkeys2.png'
 tags: ['archive.org','media','OTR','monkeys']
 ---
 
