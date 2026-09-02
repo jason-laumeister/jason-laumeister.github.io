@@ -2,6 +2,10 @@ p {
     text-align: left;
 }
 
+.downloads {
+    font-size: .8em;
+}
+
 figure.float-right {
     float: right;
     padding: 4px;
